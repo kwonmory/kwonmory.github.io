@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Your Site's RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 07:50:30 GMT</lastBuildDate><atom:link href="https://kwonmory.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[vscode(비주얼스튜디오)에서 터미널 iTerm으로 바꾸기]]></title><description><![CDATA[시작하기 mac os 기준으로 작성합니다. 비주얼 스튜디오 코드(vsc)에서 터미널을 열게 되면, 기본 터미널이 열어진다. 이를 iTerm으로 바꿔보자. 나는 cmd + shift + c…]]></description><link>https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</guid><pubDate>Wed, 09 Sep 2020 15:09:52 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Your Site's RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 11:26:52 GMT</lastBuildDate><atom:link href="https://kwonmory.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[vscode(비주얼스튜디오)에서 터미널 iTerm으로 바꾸기]]></title><description><![CDATA[시작하기 mac os 기준으로 작성합니다. 비주얼 스튜디오 코드(vsc)에서 터미널을 열게 되면, 기본 터미널이 열어진다. 이를 iTerm으로 바꿔보자. 나는 cmd + shift + c…]]></description><link>https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</guid><pubDate>Wed, 09 Sep 2020 15:09:52 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;mac os 기준으로 작성합니다.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -37,7 +37,184 @@
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;그리고 끝으로 vsc를 재시작한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[코드숨(codesoom)을 끝내며]]></title><description><![CDATA[많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다. 시작하기 짧기도 했고 길기도 했던 교육이 끝났다. (코드숨 교육은 총 12주간 진행하지만 난 14~1…]]></description><link>https://kwonmory.github.io/codesoom/ending-codesoom/</link><guid isPermaLink="false">https://kwonmory.github.io/codesoom/ending-codesoom/</guid><pubDate>Mon, 07 Sep 2020 22:10:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;그리고 끝으로 vsc를 재시작한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[2020 웹 프론트엔드 개발자 데브매칭 경험담]]></title><description><![CDATA[시작하기  올해 까지 가 2번째로 열렸다.…]]></description><link>https://kwonmory.github.io/experience/programmers-fontend-devmatching/</link><guid isPermaLink="false">https://kwonmory.github.io/experience/programmers-fontend-devmatching/</guid><pubDate>Wed, 09 Sep 2020 14:09:31 GMT</pubDate><content:encoded>&lt;h2 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1035px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.666666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsSAAALEgHS3X78AAACCklEQVQoz42RXUuTYRjHn+/RC+EnkEwdc4ibfYMOgoJ2aBh21IGYUkFuxp4NwgUxFJmRpcudaC8H6Zg1HMywkjnZC1O3PZtrObXUZ9n89exZizlFuuHHfd33/b/+13VzCfq0SDVtkgV91obO302zu4sG1y0uTdxE4+6k/kUHF1920jB9u6yr6KvyhVpDgySi2Rjg7hs7Y4/tuJ45cbmmsD9x4vPO8tY1xtDkKLrIQ/QbVvSnGZaqtSuGjWkzg4Fxfo7Y2J+y45guIE7IfIt5OAz24A/NoIsOKIZKnnS0y2MdtktWGjMm7AtueDUK3kmmZ2H8HcjxAKyIBJZ8aMP9GLLW0w0rD7qEmSteM32ep/TOO+j5/Jw7Pif3Fp3cDwzRMT9Ia/IR+ox4wpelcttqpZQFQ85Gk6ebOvEa54eNnLVf58LwDeqcRs7YrnLOocQOI/WuLlX/r5G/HoIhbeU4Ipc3bLR+eoDW00OLrw/tXC8tH8u0r1toi5nVAdbmCs0pE03J/pNJlWmWTJR01btGGZwa1yAsFZIs/06rhKopZsr3B5JKUKGkrfBVTh45VxA4gGgozlo0QTaRZT2aZC2SILWaJrayqrL8JUxOyvE/S9iTZV7PeJnzL/D+wzyLwRDft7bI5fPkd3ZUNre3+bG7S5FDJaVIOFvEEy7ijxfxRg5JbRbY3d9D/nXAH2I/kMcOikOzAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;메인 이미지&quot;
+        title=&quot;메인 이미지&quot;
+        src=&quot;/static/43309129bc573ace06b89a064d597d49/e3189/39cr33n397ot-2020-09-09-19-06-39.png&quot;
+        srcset=&quot;/static/43309129bc573ace06b89a064d597d49/5a46d/39cr33n397ot-2020-09-09-19-06-39.png 300w,
+/static/43309129bc573ace06b89a064d597d49/0a47e/39cr33n397ot-2020-09-09-19-06-39.png 600w,
+/static/43309129bc573ace06b89a064d597d49/e3189/39cr33n397ot-2020-09-09-19-06-39.png 1035w&quot;
+        sizes=&quot;(max-width: 1035px) 100vw, 1035px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;올해 &lt;code class=&quot;language-text&quot;&gt;20년 08월 03일부터 08월 21일&lt;/code&gt;까지 &lt;code class=&quot;language-text&quot;&gt;2020 데브매칭 프론트 엔드&lt;/code&gt;가 2번째로 열렸다.&lt;/p&gt;
+&lt;p&gt;1회 때도 참가하려고 하다가 이유는 기억이 나지 않지만 참가를 못 했지만, 이번에는 참가를 했다.&lt;/p&gt;
+&lt;p&gt;데브매칭은 주어진 시간 안에 테스트를 본 후 그 결과로 몇 기업들과 매칭을 해주는 이벤트?이다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Javascript&lt;/code&gt;의 역량을 보는 테스트이고, &lt;code class=&quot;language-text&quot;&gt;Javascript&lt;/code&gt;와 함께 &lt;code class=&quot;language-text&quot;&gt;Html&lt;/code&gt;을 이용하여 주어진 미션에 맞춰 웹을 만들면 된다.&lt;/p&gt;
+&lt;p&gt;라이브러리는 사용하지 못한다.&lt;/p&gt;
+&lt;p&gt;시간은 3시간 정도 진행했다.&lt;/p&gt;
+&lt;p&gt;그리고 저번에는 어떻게 진행되었는지 잘 모르겠지만, 이번에는 제출한 테스트(과제)를  리뷰 해주는 섹션이 있어서 좋았다.&lt;/p&gt;
+&lt;p&gt;큰 기대 없이 신청하게 되었고, 테스트를 진행했다.&lt;/p&gt;
+&lt;h2 id=&quot;어떤-문제들이-나왔나&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%96%B4%EB%96%A4-%EB%AC%B8%EC%A0%9C%EB%93%A4%EC%9D%B4-%EB%82%98%EC%99%94%EB%82%98&quot; aria-label=&quot;어떤 문제들이 나왔나 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;어떤 문제들이 나왔나&lt;/h2&gt;
+&lt;p&gt;정말 Javascript로 주어진 미션의 조건을 맞추면서 만들면 된다.&lt;/p&gt;
+&lt;p&gt;나는 &lt;a href=&quot;https://woowabros.github.io/devrel/2020/04/13/techcamp3.html&quot;&gt;우아한테크캠프 3기 2차 테스트&lt;/a&gt;를 통해서 프로그래머스의 vsc환경을 접했는데, 이번 데브매칭도 동일했다.&lt;/p&gt;
+&lt;p&gt;미션을 푸는 것도 동일 했다. 미션만 다를 뿐이었다. 우아한테크캠프는 좀 더 알고리즘 적인 부분이 들어갔다.(우아한테크캠프 2차 테스트는 통과했었다)&lt;/p&gt;
+&lt;p&gt;어쩄든 미션은 엄청 어렵지도 않았지만, 처음 접하는 사람들에겐 어려운 미션이었다.&lt;/p&gt;
+&lt;p&gt;나는 반 후자었다.&lt;/p&gt;
+&lt;p&gt;처음 접하진 않았지만.. 어렵다고 생각했다.&lt;/p&gt;
+&lt;p&gt;API 요청하는 부분들도 있었고, 추천 검색어를 구현하는 미션이 있었다. (이거 공개해도 되나 🤔.. 자세히는 말하지 않아야겠다)&lt;/p&gt;
+&lt;p&gt;예로 추천 검색어를 만드는데 여러 가지 조건이 딸려 들어왔다.&lt;/p&gt;
+&lt;p&gt;뭐할 땐 뭐가 되야되고, 뭐를 눌렀을 땐 뭐가 돼야되고.. 이런 정도&lt;/p&gt;
+&lt;p&gt;처음엔 당황했다. 뭐부터 해야 하지? 하면서 차근차근 하나씩 풀어나가려고 했다.&lt;/p&gt;
+&lt;p&gt;더 이상 말하면 안 될 것 같아서.. 여기까지만 말해야겠다.ㅠ&lt;/p&gt;
+&lt;h2 id=&quot;뭘-배웠나&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AD%98-%EB%B0%B0%EC%9B%A0%EB%82%98&quot; aria-label=&quot;뭘 배웠나 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;뭘 배웠나&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;많은 사람이 Javascript를 공부는 하는데 순수(바닐라) Javascript로 웹을 만들어보는 경험이 많지 않을 것 같다고 생각했다. 왜냐하면 내가 그러니깐..? &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;보통 Javascript 문법 정도를 배우고 React로 시작하시는 분들도 많은 것 같다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;React가 왜 나왔는지 이번 과제에서 경험할 수 있었다.&lt;/p&gt;
+&lt;p&gt;React는 어떤 문제를 해결하려고 했는지 얼핏 살펴보는 시간이 되었다.&lt;/p&gt;
+&lt;p&gt;그리고 내가 뭘 알고 뭘 모르는지 알 수 있었다.&lt;/p&gt;
+&lt;p&gt;그리고 미션을 보면 다양한 문제들이 존재한다는 것을 알 수 있었다.&lt;/p&gt;
+&lt;p&gt;예로 그냥 단순하게 검색하면 결과가 띡! 나오는 게 아니다.&lt;/p&gt;
+&lt;p&gt;사용자가 검색을 할 때, 불편해하거나 개선되었으면 하는 문제들을 말한다. 그 문제들을 어떻게 해결할 것인가에 대해서 생각하는 계기가 되었다.&lt;/p&gt;
+&lt;h2 id=&quot;앞으로-3회가-나온다면-뭘-준비해야-될까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%9E%EC%9C%BC%EB%A1%9C-3%ED%9A%8C%EA%B0%80-%EB%82%98%EC%98%A8%EB%8B%A4%EB%A9%B4-%EB%AD%98-%EC%A4%80%EB%B9%84%ED%95%B4%EC%95%BC-%EB%90%A0%EA%B9%8C&quot; aria-label=&quot;앞으로 3회가 나온다면 뭘 준비해야 될까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;앞으로 3회가 나온다면 뭘 준비해야 될까..&lt;/h2&gt;
+&lt;p&gt;HTML, CSS, Jvascript에다가 DOM을 다루는 방법에 익숙해지면 좋을 듯하다.&lt;/p&gt;
+&lt;p&gt;주로 DOM을 다루는 내용이 많이 나왔다. 아니 대부분이다. DOM을 다루는 연습을 해야 된다.&lt;/p&gt;
+&lt;p&gt;그리고 API요청도 해보는 연습이 중요할 것 같다. 라이브러리는 사용하면 안 되니 표준인 fetch를 이용해서 요청해보는 경험을 해주면 좋을 것 같다.&lt;/p&gt;
+&lt;p&gt;여기서 말하는 요청을 해보는 경험은 단순히 정말 요청만 하는 부분을 말하지 않는다.&lt;/p&gt;
+&lt;p&gt;요청은 기본이고, 요청이 성공했을 때, 요청이 실패했을 때도 경험해봐야 한다.&lt;/p&gt;
+&lt;p&gt;그리고 수많은 요청이 한꺼번에 몰릴 때, 어떻게 해야 되는지도 생각해야 된다.&lt;/p&gt;
+&lt;p&gt;Javascript는 ES5+ 이상 알고 있으면 편할 것 같다. &lt;/p&gt;
+&lt;p&gt;그리고 비동기 처리해야 한다.&lt;/p&gt;
+&lt;p&gt;비동기 처리하기 위해선 좋은 문법인 async / await로 처리하는 게 깔끔하다.&lt;/p&gt;
+&lt;p&gt;Promise가 왜 나왔는지 알아야 한다. (대표적으로 콜백 헬)&lt;/p&gt;
+&lt;p&gt;코드 스타일이 중요하다. 좋은 코딩 스타일 연습하기&lt;/p&gt;
+&lt;p&gt;로컬/세션 스토리지도 다양한 부분에 적용해보는 연습을 해보자.&lt;/p&gt;
+&lt;p&gt;좀 더 퀄리티 있게 만들려고 노력 해야 한다.&lt;/p&gt;
+&lt;h2 id=&quot;처음-접하시는-분들을-위해-팁을-일수도-아닐-수도&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B2%98%EC%9D%8C-%EC%A0%91%ED%95%98%EC%8B%9C%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%B4-%ED%8C%81%EC%9D%84-%EC%9D%BC%EC%88%98%EB%8F%84-%EC%95%84%EB%8B%90-%EC%88%98%EB%8F%84&quot; aria-label=&quot;처음 접하시는 분들을 위해 팁을 일수도 아닐 수도 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;처음 접하시는 분들을 위해 팁을 일수도 아닐 수도&lt;/h2&gt;
+&lt;p&gt;사실 처음 접하는 사람들은 이런 생각을 할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;quot;이게 뭐야.. 어떻게 접근하는 거지.. 뭐부터 해야 되지..&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;당연하다고 생각한다. 이건 경험이 없기 때문이다.&lt;/p&gt;
+&lt;p&gt;경험이 없는데 뭘 만들라고 하는 건.. 정말 어려운 작업이다.&lt;/p&gt;
+&lt;p&gt;그래서 나 같은 사람들은 경험이 중요하다.&lt;/p&gt;
+&lt;p&gt;여기선 다른 사람 코드를 보고 배우는 방법이 있다.&lt;/p&gt;
+&lt;p&gt;프로그래머스 데브매칭 1차 때 과제에 대한 코드를 올리신 분들을 찾아보고 따라 연습해보자. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/woohyeonjo/ilovecat-javascript&quot;&gt;woohyeonjo/ilovecat-javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/hanameee/vanillaJSKitty&quot;&gt;hanameee/vanillaJSKitty&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;피드백&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%BC%EB%93%9C%EB%B0%B1&quot; aria-label=&quot;피드백 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;피드백&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 634px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 143.00000000000003%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAdCAYAAACqhkzFAAAACXBIWXMAAAsSAAALEgHS3X78AAAExElEQVRIx5VVCU9UVxR+P8ZYjIkBtVRURMDGtkmbtErbUGpNm9hEu6RLamPSJVAre2PSVimbCq1WaWqlEGMBBbvJMgNIgWGAsszyZmWYeTMw69f73eFRqWBlki/nvnPP+853z7lznhIMBjEyMoLJyUmMj49jZmYGQ0NDcq37+vv7YTAY0NPTg+HhYZhMJnR2dsJoNKK7u1v6ent74ff7oczPz0vCURE0ZjZj1jIrScwCpjETpqan4XK74HQ5oTpUsXZjzueDxWoRdg5Op1Naj9eDcCQCRbWrMPYaMNBnhHnEhEnzBCZMZgwa+jE0cBeq1Y71/JQo4tAQRXAJGiIIYHEZ8/EQvOEAvBFNIGnnuI4KGwsuwxvTsBAXCttCw3jKfhoH1TN4Tv1a4oDzDPICtcjTavFCsE7ieYEXQ/XJZ2EPus7iAGMdItZxFk+qp/G91gPl5+AAtlmLsMdWikxbCTLVUuz6+yS2XHkNmxtfxcb6AqRceAWbGg5jQ20+Us4fwsbzLyPDXChjd1tLkCXe3So46vy/QmkNDiLDegq59grk2MqR7a7E48YiNF28iAvV59He+guuXbqCpgvfobvrD7Q0XcP1H1uxv+sT7PVUIsdajn3i3cesn+Nc4DcoLYKQDznCmS0Is5xleMJUCdPtG5gqPobFvjZ8ds6LkosBhOx34DOcgN/WhWf6vkCmqxTZ1jIpJt16cm3C/cMVmG6/Dnz5IdBzEyV1EVRdBXx/3QAGP0JgvB1P/1mBPf9PWIa9zgrkmotxydiCjlsN6DR3ob67DzV3DOia/R0dQ41oHm0XSYuR5SqX76xJuFds5jgrsf3mcWyoOoxNV97CpstHkdbyBrZcPoKUxtex+eo7eKThCLZ3fIBsNfnOCsLW4F1k2E7JwrIpuY5K7Oz+GI+2vo9tP7yN1Iaj2Nb8Hrb+9C5Svz2GtMtvIqPrBNLbjgsR5RL77JX/NqVZXJs0S6G8MrtsxdgpOr7bVYZMTzl2mIuQPvwpdowVJu14kfRlupP7jCcyxbVJFRy1/ttQbi2YkOeuwiF3HQrctUm4apHvqEa+uwYveQTutQL5jm+Qrwo4qyUKnDV41vEVmrQ+KJFoBPNiSmhi6gS0APwCgaCGsPDHE3HE4jGB+EokViK+hEQiASUUCsHhcMA3Nwev1wuP2yNtLBpb11BAYmk4hCNh+MQ44izziVFGy1HFscSxpaoq3GJk8ZlgMlqK4MjimqIkJxXGYjFomgYOWt0GAgEZRNC3sLAgfUym79NPcB0Rc5BkkpBB02KIclLb7XbYbDY5kTlkmX1qakruScUuFywWi4yfEyWiesZzb3Z2ViZTmMEsJjUJxsbG5PQmMcGj0lKJfqTVsGLAxkXXmE2XTxUsw0P1YRVy2WWSECw4VTEBn1l4KtT3eTT9mLrq+z8B0ehyM0jOBhD6mv57nxcXF2V8OByWJ2FDyMGTSkKqGh0dlYVnM7hmLQcGBmRdiYmJiWU/Y/iZpY+11320TCQJ+f0leBR2nRs8tr7Wrwzvq8fjkWvdx336WSqqVyhdv1tcs7CUr9v1/hTWhVlZdKvVKu8Tm0G1BLM+6Mrc12Wqml/6y1HpWvfsv/ftgQp5fqok8WovPiwZf/8ARkXgp9Yn274AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;피드백 이미지&quot;
+        title=&quot;피드백 이미지&quot;
+        src=&quot;/static/245e57e1d94b2b2d7ce99dd72d0bb2b6/374ac/50cr33n505ot-2020-09-09-17-27-50.png&quot;
+        srcset=&quot;/static/245e57e1d94b2b2d7ce99dd72d0bb2b6/5a46d/50cr33n505ot-2020-09-09-17-27-50.png 300w,
+/static/245e57e1d94b2b2d7ce99dd72d0bb2b6/0a47e/50cr33n505ot-2020-09-09-17-27-50.png 600w,
+/static/245e57e1d94b2b2d7ce99dd72d0bb2b6/374ac/50cr33n505ot-2020-09-09-17-27-50.png 634w&quot;
+        sizes=&quot;(max-width: 634px) 100vw, 634px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;피드백이 왔다. 무료로 피드백도 해주니 리뷰어분들에게 감사하며, 고생 많으시다..&lt;/p&gt;
+&lt;p&gt;리뷰가 오기까지 까먹고 있어서!? 나는 체감상 오래 걸리지 않았다. (기간만 보면 오래 걸렸다. 기간은 이미 공지되어있다)&lt;/p&gt;
+&lt;p&gt;내 피드백으로 다른 분들도 도움이 될 수도 있다.&lt;/p&gt;
+&lt;h3 id=&quot;좋았던-점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A2%8B%EC%95%98%EB%8D%98-%EC%A0%90&quot; aria-label=&quot;좋았던 점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;좋았던 점&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;모듈이 파일로 적절히 분리되었습니다.&lt;/li&gt;
+&lt;li&gt;결합도를 낮추기 위해 함수를 전달하고 있습니다.&lt;/li&gt;
+&lt;li&gt;let, const 사용에 대한 기준이 명확합니다.&lt;/li&gt;
+&lt;li&gt;async, await, try, catch 를 이해하고 있습니다.&lt;/li&gt;
+&lt;li&gt;API 호출을 함수와 파일로 적절히 분리하였습니다.&lt;/li&gt;
+&lt;li&gt;debounce 함수를 분리하여 적절히 사용하고 있습니다.&lt;/li&gt;
+&lt;li&gt;에러 처리 UI 가 컴포넌트로 분리되어 있고 적절히 처리되고 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;아쉬운-점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%84%EC%89%AC%EC%9A%B4-%EC%A0%90&quot; aria-label=&quot;아쉬운 점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;아쉬운 점&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;스토리지를 통한 캐싱 처리가 되지 않았습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;총평&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B4%9D%ED%8F%89&quot; aria-label=&quot;총평 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;총평&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;추상화와 구조적 프로그래밍에 대한 이해가 있습니다.&lt;/li&gt;
+&lt;li&gt;시간이 더 주어지면 요구사항을 적절히 수행할 수 있을 것으로 판단합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;야호&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%BC%ED%98%B8&quot; aria-label=&quot;야호 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;야호!&lt;/h2&gt;
+&lt;p&gt;이번에는 온라인 모의 면접 이벤트가 있었는데, 과제 테스트 점수 상위 3명에 들어서 당첨되었다.&lt;/p&gt;
+&lt;p&gt;???? 과제 테스트 점수 상위 3명 맞나.. &lt;/p&gt;
+&lt;p&gt;어쨋든 이메일로 무료 온라인 쿠폰을 받았다.&lt;/p&gt;
+&lt;p&gt;무료로 모의 면접을 받을 기회가 생겨서 기분이 좋다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 943px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 71.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAABaklEQVQ4y5WT6W6DMBCEef/3a3OWKm04DYaAuSHTHSdUyY+qsaUJDqDxt7uDV6oE/ucXNgcfW9HRPyHXJaZ5xjhOuF6vcFleHCfYHT6w2R/xvtvjbbuHfzrf9Y2u7+2Ly7JY81X8P8uhFPervNoYZHmFvGihdCPXGkpliOSgOElRlBdcqhparhTpeS8IQqvzOUAYhoiiCLoo4Cml8B1opHpBlM1QeYs0FbM4RpIkMKZB23Vomtbum7aDkT1Bmrb9fUYN4wivENc4CqUot1792UPWXV4qwWVpxu5Z4qWq7Ilcj737T14r2KydZdzKaZ5eWA1fJiRJrjWGYbxrQN8PT3QuppYwy3Lb4F7M2GSK5utyIqyEkBNl3qZpsmEmXSeUvMceOxHyh/2z+bLDKSWXGolksZaYuFJ6TDqDmuWFNeOEVaatqtrYT/BxQC/Fpqpra0YxNhQpacoBORHeDI2lXD+zkpRimKrc2fAHiNJEuh1Rn1UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;데브매칭 이벤트&quot;
+        title=&quot;데브매칭 이벤트&quot;
+        src=&quot;/static/d799eeed9bac3482abbbab665cfe23a4/146da/51cr33n515ot-2020-09-09-17-37-51.png&quot;
+        srcset=&quot;/static/d799eeed9bac3482abbbab665cfe23a4/5a46d/51cr33n515ot-2020-09-09-17-37-51.png 300w,
+/static/d799eeed9bac3482abbbab665cfe23a4/0a47e/51cr33n515ot-2020-09-09-17-37-51.png 600w,
+/static/d799eeed9bac3482abbbab665cfe23a4/146da/51cr33n515ot-2020-09-09-17-37-51.png 943w&quot;
+        sizes=&quot;(max-width: 943px) 100vw, 943px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 480px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 139.66666666666669%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAAsSAAALEgHS3X78AAAExklEQVRIx41V+U9URxznLxKTqikCVXDbeCc9YmrSpL/00JA2rVprk4q2VkBRUKEJ6ZFqRUXECw9AoCIuLIewVGQ5lj3Y4x373tu3N3uxn87M2112LbRM8tnP9zvz/X52Zt53ZgpAWjiyiFA4wkDtxWiMcTAURiAYhj8YQjQWQyqVygNtGc60AvrT+dcAbrV34+a9LjzVj8Lw4iWzWwjaHvag6UobJk1mvN5WEmWC0/M2mG0OzNudsCy4MDVnIexk/rTZBuOrWVgdLoiyglAkAklREQyHmcBSaokgxZAV7Ne/QEtbJ/QD4zCZLGhouo4nPYMYGDTiwaM+3L3fy8Z+/qUFIyOT6Ok1YGR0kqj9e8YFVFdI+DEfFjDn5+BOqpjyOjDjc2M+JMAW8cCkOmEO8jAKVljDIuubC/BYiMks3pnwQkwGtBnSKX+ltEAn1GGvpxE7+IvY42nAbvESdgkUF4ndwOy9UmNO3yXsJEz9cv48vpBvLAt+Jv2JTe7T2OI+iy3COZQr9SuiLNf3XsBWEruVq2W5n0hXlgUPys3Y7K6GTqxHifU01g0cymK94UieXUgxeBiFA4dRbPmJ5RSR3M+lq8uCB4hDBbfIdXjrh3344KMd0H24B7p3t2PzznKUv7eLgdqlu4n//nYUl5diQ+U+lKsXUOSqYqvMEywRzuIN60mcvNNIPhcwNjUDm1NkQYLDzJBpbt7HuObxb9joOIUS/swKgjwRtJzAic7fERnWo+PIxxiv/wa2WRkHKp+j4pSB1KUfyngDXrR/DYgjqO5pxibHj6sLbrBU4njXH0DXHciXzwI3v0f37Zf4si6ExgdAT58ZAbKXwdkzgPkKqrtvrEGw+zKp9C5YqyoQv1aJsWE3DlTxOPZrgJwYEergMTK5Q4DzCap6/kuQ7eEJnLzfBMSBxMNmwPiMBXX0pdD+NL2B0hBgu05OSRS1XVexcWEVwWKuhmF/WyXuGXrRauxH69gztBk68Gi8E4/HO5jdOtyH1tHnuN3/BPtvHUepWMsqJE+Q1iGtJXpaSlw1KDR+i/XGoxomvsM64zEGaq+fIGMTR1FIuNip5RS9LkiL8k13Fcq4cyjjz2GbVL8m0FiaQ3M/zRWskK+hhDuDt/l66Pg66LjzhJexjfqcxhloMXV4R6hnuQelZk2QXjl2cmuYohxmYwKmFznMRHlMRzWmmI1pPBcXGMxxUYtJx5oI24hGVtCvhqB4/Aj5IpA9PgTUMLxyAD4lCEXyaz5hlfR5BJX1+b2hbKws+qCS2PSSU/B4fXCKEhyCB26PDKcgMfDkhuZlL+ycCE5SGGjMAi+yOEn1weYmqyK3PeXsjc15FFidPOwuAQskec7uYr55wY1piwN2Eqz4yOwUH1yiDIH8CU/EJa+fwUX+XPXnzFBRtWCZDMqqFkSZl7yMY/EE/q9lXsIC7cXKADmcF75GpD9KkkyAVA/DUpIcO+In4jlI5PRlx1L5SOS8enargva7fXjaO4a/x+2QhCWCZA5rtiwuwcMnSUWQbfIgyzK5Nn1Kzrss8hEMDcxA3z8Jg96EkaFZGMdsME1yzB4enMHkhAOmVxwG9VNEIAXvaoKZJdOlZpZM/WR6mbk2XSq14zGKVJo10DHa/gEH021prHdyYgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;온라인 모의면접 무료안내&quot;
+        title=&quot;온라인 모의면접 무료안내&quot;
+        src=&quot;/static/3480b3454095f56bac9289c18fa6da24/e85cb/28cr33n285ot-2020-09-09-17-37-28.png&quot;
+        srcset=&quot;/static/3480b3454095f56bac9289c18fa6da24/5a46d/28cr33n285ot-2020-09-09-17-37-28.png 300w,
+/static/3480b3454095f56bac9289c18fa6da24/e85cb/28cr33n285ot-2020-09-09-17-37-28.png 480w&quot;
+        sizes=&quot;(max-width: 480px) 100vw, 480px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;마무리&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A7%88%EB%AC%B4%EB%A6%AC&quot; aria-label=&quot;마무리 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;마무리&lt;/h1&gt;
+&lt;p&gt;결론적으로 짧게 말하면 재미있는 경험이었다.&lt;/p&gt;
+&lt;p&gt;데브매칭에서 지원한 기업들에서 내 이력서를 열 때마다 이메일로 연락이 오는데 좋은 결과가 있으면 좋겠다.&lt;/p&gt;
+&lt;p&gt;다음에도 참가해야겠다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;감사합니다.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[코드숨(codesoom)을 끝내며]]></title><description><![CDATA[많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다. 시작하기 짧기도 했고 길기도 했던 교육이 끝났다. (코드숨 교육은 총 12주간 진행하지만 난 14~1…]]></description><link>https://kwonmory.github.io/codesoom/ending-codesoom/</link><guid isPermaLink="false">https://kwonmory.github.io/codesoom/ending-codesoom/</guid><pubDate>Mon, 07 Sep 2020 22:10:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
