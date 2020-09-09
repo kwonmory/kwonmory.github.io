@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[{ 모리 막장저장소 }]]></title><description><![CDATA[about me]]></description><link>https://kwonmory.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 07 Sep 2020 16:47:03 GMT</lastBuildDate><item><title><![CDATA[코드숨(codesoom)을 끝내며]]></title><description><![CDATA[많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다. 시작하기 짧기도 했고 길기도 했던 교육이 끝났다. (코드숨 교육은 총 12주간 진행하지만 난 14~1…]]></description><link>https://kwonmory.github.io/codesoom/코드숨을-끝내며/</link><guid isPermaLink="false">https://kwonmory.github.io/codesoom/코드숨을-끝내며/</guid><pubDate>Mon, 07 Sep 2020 22:10:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 06:49:36 GMT</lastBuildDate><atom:link href="https://kwonmory.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[코드숨(codesoom)을 끝내며]]></title><description><![CDATA[많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다. 시작하기 짧기도 했고 길기도 했던 교육이 끝났다. (코드숨 교육은 총 12주간 진행하지만 난 14~1…]]></description><link>https://kwonmory.github.io/codesoom/코드숨을-끝내며/</link><guid isPermaLink="false">https://kwonmory.github.io/codesoom/코드숨을-끝내며/</guid><pubDate>Mon, 07 Sep 2020 22:10:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;많은 걸 담고 싶었지만, 생각나는데로 적어보았습니다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
@@ -926,7 +926,152 @@ import { functionname } from &amp;#39;./images/index.js (O)&lt;/code&gt;&lt;/pre
 &lt;p&gt;와우.. &lt;a href=&quot;https://jestjs.io/docs/en/expect&quot;&gt;expect&lt;/a&gt;도 있다. 천천히 알아가자..&lt;/p&gt;
 &lt;h2 id=&quot;레퍼런스&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A0%88%ED%8D%BC%EB%9F%B0%EC%8A%A4&quot; aria-label=&quot;레퍼런스 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;레퍼런스&lt;/h2&gt;
 &lt;p&gt;모든 예제는 &lt;a href=&quot;https://jestjs.io/docs/en/using-matchers&quot;&gt;jest 공식 문서&lt;/a&gt;에서 가져오거나 일부 수정했습니다.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://github.com/testing-library/jest-dom&quot;&gt;jest-dom&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://kwonmory.github.io/resume-en/</link><guid isPermaLink="false">https://kwonmory.github.io/resume-en/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/testing-library/jest-dom&quot;&gt;jest-dom&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Sdkman을 이용해 SDK & Maven 설치 및 관리하기]]></title><description><![CDATA[시작하기 유닉스 기반의 시스템에서 여러 소프트웨어 개발 키트의 버전을 관리해주는 툴이다. 설치는 를 통해서 진행하면 된다. 비슷하게 자바스크립트 런타임 환경을 제공해주는 NodeJs도 버전별로 관리 할 수 있는 NVM이 있다. 살펴보기 sdkman…]]></description><link>https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</guid><pubDate>Wed, 08 Apr 2020 15:09:37 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
+&lt;p&gt;유닉스 기반의 시스템에서 여러 소프트웨어 개발 키트의 버전을 관리해주는 툴이다.&lt;/p&gt;
+&lt;p&gt;설치는 &lt;code class=&quot;language-text&quot;&gt;https://sdkman.io/&lt;/code&gt;를 통해서 진행하면 된다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;비슷하게 자바스크립트 런타임 환경을 제공해주는 NodeJs도 버전별로 관리 할 수 있는 NVM이 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;살펴보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;살펴보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;살펴보기&lt;/h2&gt;
+&lt;h3 id=&quot;sdkman-사용가능한-명령어보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#sdkman-%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;sdkman 사용가능한 명령어보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;sdkman 사용가능한 명령어보기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;sdk에서 사용 가능한 명령어 출력을 해준다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 624px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 82.33333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAABpUlEQVQ4y32U6a6CQAxGeSF3FFldWESNMTGG93+TmtPkI1y8+KOOA+3XM22HIClSK8vK9vu97XY7i6KoXzGeY9r/sjiOLciz3JIkscPhYE3T2PF4tKqq7HK52Pl8tqIoXHCxWNhyueyN/dhWq5UFm83GgxAkQ5Zllue5ryTCaT6f94JaeT629XptAT8QPR4PS9PU0fUMI1Fd105OIlZ8RCQjiQvygpqVZekBp9PJyZ7Pp71eLydFlGMTyIkkMCmIAMcOw9AFttutXa9Xu91uPSE+wzqORb8EoSEYY/9+v63rOk8AHUnGAj8JEYCEo0OqMcCRpvxHNSlIM9q2dWGIcEAQKkRJMEX2JcgfgqkXHSSB9jSJZDRiSPlTEEdqxNjQ7dls5g40CWLdFsgR5j0xWoeDja8PNmQ0gwxQIUYtqSm3hVWzqMFnvHQCyqLS+WBDQJ2oGVeOet7v93421SwlRkxXkxhi1Vwn1HF4QaBuSTG4GfpIQIMIBhGmSegFOSKGM2QYNdUKMYkgYoUOUtFR8z+Eur+85CFZoZZpr48GRxYAjRwKfgDy4hLgJFHFnAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;설명이미지&quot;
+        title=&quot;설명이미지&quot;
+        src=&quot;/static/b87258eb12d81aa86d778ea27f04f102/39c09/13cr22n133ot-2020-09-08-15-18-13.png&quot;
+        srcset=&quot;/static/b87258eb12d81aa86d778ea27f04f102/5a46d/13cr22n133ot-2020-09-08-15-18-13.png 300w,
+/static/b87258eb12d81aa86d778ea27f04f102/0a47e/13cr22n133ot-2020-09-08-15-18-13.png 600w,
+/static/b87258eb12d81aa86d778ea27f04f102/39c09/13cr22n133ot-2020-09-08-15-18-13.png 624w&quot;
+        sizes=&quot;(max-width: 624px) 100vw, 624px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;설치-가능한-리스트-보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%84%A4%EC%B9%98-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;설치 가능한 리스트 보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;설치 가능한 리스트 보기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; list&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;설치 가능한 리스트들이 나오게 된다.
+&lt;a href=&quot;https://sdkman.io/usage#listcandidates%EB%A5%BC&quot;&gt;https://sdkman.io/usage#listcandidates를&lt;/a&gt; 참고하기&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 627px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 161.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAAAsSAAALEgHS3X78AAADc0lEQVRIx53Vx1LrWBAGYJGjDQaTczSYTBHe/wFmN7vBlhPvMfpOuVUaX+4s7qKrT2h1/+fvoKy23sg3Gs18q9nMd3Z2epubm/nq6mq3VquVsry8nGRlZaVbvYs1nWXZ19zcXDe7abUG7fbt8PLycnB/fz88OzsbcNpsNnshu7u7vf39/d7h4WF/a2urV70j7KempjoLCwvdjANGIoRMT093GNDFvnNyctK/vb0dHh0d9WdmZtL5pPguORRhfn6+M3bWGctXZf8lIBQTd79IcjjmIV9bW8tnZ2c7EFRlEknBU2djYyNfX1/P6RB3BbBuVnDT39vb6zlcWlpKBBMJEMi5hDir1+p5vV7Pcbm9vd2TRN8DA31CeHV1Nbi4uBgcHx/3JQanNHF+fX2dBI+tVmvI/vz8PNnTuE2OiicvLi52s7ggSPfhwcFB0qenp0li7Z4dZDc3N8MAAmXJYRF18PT0NHp4eBjd3d0NHx8fR4GK2Bd3w9fX15GyYueMLXRs1GLpkJEoOJFNNUeCI+vQuCbWqgO/XqMCyqSot/8rhd+JbEMUUiZFNmVORkMrHx/8JGqWnRfEa7xMiSWENkilGTYajdyHnIpIx9q5TAYlVXrK1kMswmlZkwDSbreHLy8vI1oinEnG29vbt2yrxch8DIdUNoqSQEcjmoG17MWdM+gh8mF0UnRXmWVkxiCoJKjzO+FYhqO/TSFVUD4ZdKIcgr8gP6S6txacs/FY69NlUhDqWbItGkOZjrknUMw9Z4LG+XgC/XfaBA8hgTDWP53jkMPItHWJUBIiMdHk1Vk4OQNx5RtIISSQO08OERoGonHMQIYZyzCbqFeoUKNdndn7tuwUNfjx8fH9/Pw8MiQ0/efnZ9q7e39//449MdbUY6zVL05LDkWPH010C8SRFAicVSmQ5ai/qIBqHU42/i/DIuqUA2sTPDLvV0CX0yZGFlTQQhROfhIBq+jjF1s6NI31sAvj3x7h+tS4J9ZsTGvaUNbD7szDeFURJM8YEIU9LurUsxBHlu3pWEd/WydUY2ogzf5kuAqOR39JGo/OvTKDIqJGn07+j6tThY169FQO0EM8OzkM7nBiHQGiaKOUBITEnjMDBd+oSXOwQKgF03+ZQwYicQxB/J9jGuHHBxIkw3FuHfMwOSxQ/V1sRPjnT/isiHb961/bc6YW0t1nXgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;설명이미지&quot;
+        title=&quot;설명이미지&quot;
+        src=&quot;/static/2c8a28350e7f7c78b99b98f4b9427319/e9c9b/34cr22n343ot-2020-09-08-15-18-34.png&quot;
+        srcset=&quot;/static/2c8a28350e7f7c78b99b98f4b9427319/5a46d/34cr22n343ot-2020-09-08-15-18-34.png 300w,
+/static/2c8a28350e7f7c78b99b98f4b9427319/0a47e/34cr22n343ot-2020-09-08-15-18-34.png 600w,
+/static/2c8a28350e7f7c78b99b98f4b9427319/e9c9b/34cr22n343ot-2020-09-08-15-18-34.png 627w&quot;
+        sizes=&quot;(max-width: 627px) 100vw, 627px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;java와-관련된-jdk-리스트보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#java%EC%99%80-%EA%B4%80%EB%A0%A8%EB%90%9C-jdk-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;java와 관련된 jdk 리스트보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;java와 관련된 JDK 리스트보기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; list java&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 627px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 161.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAgCAYAAAASYli2AAAACXBIWXMAAAsSAAALEgHS3X78AAADdElEQVRIx3XWx3LbQBAEUCjnnDOVJSpXSf//A774bIIESfk/jAfvsMCgAwrAcranp6dnwWxjf7doXNz0LhuN7t3dXe/4+LhYW1trr6ystFdXV9vLy8vV5X1paalai3VrYr1nWdaam5trZw/3972np2a/UQLe3NyUz0/9y8vL3tHRUbG7u1u4Hx4eFnt7e8XZ2VnXfX9/v3qW3Pv29nZnamoqX1hYaGc2lT90vZTZOltbW52Dg4NqbXFxsb2zs9MprwILIFitr693EJAI0wooy/4DbmxsdE5OTrpAAKDu+fz8vAKUAAvrcSn99PS0K4FrZmYmt56AszwCSw1y1G9vb3vNZrOPjQ3e/R4bMXx+fu6T5+3t7Xt2dnYMMK8Das7Dw8MA8Pr6eghQVcAeHx/7r6+vPwP6AaByrq6uekrWAO9iApBuGqeJko2WHNrkkYmmsm9ubnZqgBH3R4PuS3dojLgE1Bo0xcZYwCoCPSsZGyxYSNfFR8n0JdUAEP1kzHx+fr6NpTKILeji4qIrgXV33uO79/f376+vr791B1SAhJcVm+np6SoTRlGmDWxUc0NVssZhF1MyScNW0jDHKjLHZNSbgoSkGseTo4BDtvGsZOXpON00yXpUgBVb0bDOfgyw1LB6FmxSouMaU2dIQ/4DaFx/LDkYAjEpdDXrWGAbDE0KMCWb5yEf1gNDQ0E2+I2GSc+hkvmQNBo6VLLhBwAsABvpbJRZeWFeCQLQmhig0ZixkkPDKAcABh8fH9/8GoCGgYYAm4/N4UmZ1GUMddeaCjRplCFmrOMKKX70IVPrsncNsDkO0fChNTFxbg4A6RTBwZCxdZk2Mbdp06Bk5yFZlO19AIiB8pQTgPR5eXnpC9Qwk6KssAddPz8//0rkCBs1dmv0xI5ZBsgy7nV7eceO1koObR0uEw9Yk6HsODhGATUlAFUQ+5MnxwFLhpUPTYipoWMd0LiFsct79alIY1pM/KawCSC+VHp8d0NDVuJV+hnNWE9WG59l5Qh09mE5WrJGOgvF1e1UAZoADGRxxZEVH6b4Z1CfZSUCE1M3dgWIFb8BCmMLTkdWyybi1z+jcTj4TKRkrYkl12c5MfwD7KfvMi/GB24UcGiWiR2zPOmABahxpqn+TUmnTva7vKrFZNCcroltpVfYIgwssb9x0awEWJR7fv0DNjuWow2v/acAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;설명이미지&quot;
+        title=&quot;설명이미지&quot;
+        src=&quot;/static/372aab63342b8ffff9c41c68ef3f16a2/e9c9b/45cr22n453ot-2020-09-08-15-18-45.png&quot;
+        srcset=&quot;/static/372aab63342b8ffff9c41c68ef3f16a2/5a46d/45cr22n453ot-2020-09-08-15-18-45.png 300w,
+/static/372aab63342b8ffff9c41c68ef3f16a2/0a47e/45cr22n453ot-2020-09-08-15-18-45.png 600w,
+/static/372aab63342b8ffff9c41c68ef3f16a2/e9c9b/45cr22n453ot-2020-09-08-15-18-45.png 627w&quot;
+        sizes=&quot;(max-width: 627px) 100vw, 627px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;jdk설치하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#jdk%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0&quot; aria-label=&quot;jdk설치하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JDK설치하기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; java &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;해당하는Identifier&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Identifier 에 있는 부분을 마지막 인자로 입력하면 된다. 그러면 해당 sdk를 설치하게 된다.
+그러면 위와 같이 Status 에 installed 로 설치된 부분을 알려준다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 627px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAAB50lEQVQoz2WTx87aUBCFL6L3jqimmF4EBASrPECU99/h60aeIL+zznxXOAJlMbrWlDNnzozVz2+Hr+8/ttF4bn+tl6tou93+wTabDW90u92MXS6X6H6/449Wq1V0OBxM3mKxiDB8+/3+t+oOh549Xfj1Wk3X63Xd6XTcwWDgjcdjL5/PO61Wy223226xWHRGo5FXLpedmuTatu0PpZZv8lKp1COXy2nVajZdyxp5gBBMp9POer0Ojsdj2Gg03Ol06kv3IJvNOhiFNCGOnc/nJ82k7iGvVslk8pFIJIzRiaL5fO4vl8ugWq1qWABKI+LkMwlNyREJgpihAcxkMgaEt1AomBcAQCuVin6NDyAj/QMEjBzYfwCSCAhvDEjibrcLYTiZTEwR8XeGEg9kMeHpdAr/YxgDogVs6S6bffZ6PTMu4xEnhjQs6Xq9PmWroWz+F41pZADZarfbdXHIBjVBQAAFwLIsMzLNYA7jpiwS7ZgCSd4IaQXdUqmkKeabIEVyYwFNKOBc0A/GbBhA4gBCiDypQzKt5DQ0ibCLARlxNpv5SqkH90iDWGt8nBP6vU5LfwAiJo6XqAYQwQFEL8CQAH+8FBgCxkLQE99rqZ9Libcsv1IACDL0+32PW8Qfnw2s0BCdib/V679HUw72WAEAegAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;설명이미지&quot;
+        title=&quot;설명이미지&quot;
+        src=&quot;/static/11d355e6112f820bc32841e7d5666a39/e9c9b/52cr22n523ot-2020-09-08-15-18-52.png&quot;
+        srcset=&quot;/static/11d355e6112f820bc32841e7d5666a39/5a46d/52cr22n523ot-2020-09-08-15-18-52.png 300w,
+/static/11d355e6112f820bc32841e7d5666a39/0a47e/52cr22n523ot-2020-09-08-15-18-52.png 600w,
+/static/11d355e6112f820bc32841e7d5666a39/e9c9b/52cr22n523ot-2020-09-08-15-18-52.png 627w&quot;
+        sizes=&quot;(max-width: 627px) 100vw, 627px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;jdk-버전-확인하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#jdk-%EB%B2%84%EC%A0%84-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0&quot; aria-label=&quot;jdk 버전 확인하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JDK 버전 확인하기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$java&lt;/span&gt; -version&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 627px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 16%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAAsSAAALEgHS3X78AAAAp0lEQVQI1z1OOQ6DMBDEHBUVFBiMsZw4QQhhCQT/f4mDl+Mh8RRJMdrRrOaIHlofr74/h2E453m++sDruvY66EopapqGhBDUti2VZemLotjjOHZAkiQuTVOXZZljjDkpJUXLstzrut7btt3TNF3jOJ7W2gs6uDHmQChKEMw5913XEQqh53n+ARAIPXq+DcGIZ1VVPlzgvwxBANoBaDD+flgODxYHvn8B2ehHNmhondIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;설명이미지&quot;
+        title=&quot;설명이미지&quot;
+        src=&quot;/static/b06f48777e68d26fab2709085cf12f94/e9c9b/6cr22n63ot-2020-09-08-15-19-06.png&quot;
+        srcset=&quot;/static/b06f48777e68d26fab2709085cf12f94/5a46d/6cr22n63ot-2020-09-08-15-19-06.png 300w,
+/static/b06f48777e68d26fab2709085cf12f94/0a47e/6cr22n63ot-2020-09-08-15-19-06.png 600w,
+/static/b06f48777e68d26fab2709085cf12f94/e9c9b/6cr22n63ot-2020-09-08-15-19-06.png 627w&quot;
+        sizes=&quot;(max-width: 627px) 100vw, 627px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;jdk-설치된-위치-확인하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#jdk-%EC%84%A4%EC%B9%98%EB%90%9C-%EC%9C%84%EC%B9%98-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0&quot; aria-label=&quot;jdk 설치된 위치 확인하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;JDK 설치된 위치 확인하기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$~/.sdkman/candidates/java&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;다른-버전-사용하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A4%EB%A5%B8-%EB%B2%84%EC%A0%84-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0&quot; aria-label=&quot;다른 버전 사용하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;다른 버전 사용하기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; use &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;해당하는Identifier&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;하지만, use 는 터미널이 종료되면 적용이 무효화 된다. 그래서 다음 명령어를 사용한다. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; default java &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;해당하는Identifier&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;maven도-설치해보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#maven%EB%8F%84-%EC%84%A4%EC%B9%98%ED%95%B4%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;maven도 설치해보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Maven도 설치해보기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; list maven
+&lt;span class=&quot;token variable&quot;&gt;$sdk&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; maven &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;version&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;메이븐-버전-보기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A9%94%EC%9D%B4%EB%B8%90-%EB%B2%84%EC%A0%84-%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;메이븐 버전 보기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;메이븐 버전 보기&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$mvn&lt;/span&gt; -version&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[about]]></title><description><![CDATA[Your name Thank you for reading my resume. If you want to contact me, Please send me an email.]]></description><link>https://kwonmory.github.io/resume-en/</link><guid isPermaLink="false">https://kwonmory.github.io/resume-en/</guid><pubDate>Sun, 27 Jan 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;your-name&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#your-name&quot; aria-label=&quot;your name permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Your name&lt;/h1&gt;
 &lt;div align=&quot;center&quot;&gt;
 &lt;p&gt;&lt;em&gt;Thank you for reading my resume. If you want to contact me, Please send me an email.&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;</content:encoded></item></channel></rss>
