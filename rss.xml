@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Your Site's RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Sep 2020 15:56:04 GMT</lastBuildDate><atom:link href="https://kwonmory.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[vscode(비주얼스튜디오)에서 터미널 iTerm으로 바꾸기]]></title><description><![CDATA[시작하기 mac os 기준으로 작성합니다. 비주얼 스튜디오 코드(vsc)에서 터미널을 열게 되면, 기본 터미널이 열어진다. 이를 iTerm으로 바꿔보자. 나는 cmd + shift + c…]]></description><link>https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</guid><pubDate>Wed, 09 Sep 2020 15:09:52 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Your Site's RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Sep 2020 09:04:12 GMT</lastBuildDate><atom:link href="https://kwonmory.github.io/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[vscode(비주얼스튜디오)에서 터미널 iTerm으로 바꾸기]]></title><description><![CDATA[시작하기 mac os 기준으로 작성합니다. 비주얼 스튜디오 코드(vsc)에서 터미널을 열게 되면, 기본 터미널이 열어진다. 이를 iTerm으로 바꿔보자. 나는 cmd + shift + c…]]></description><link>https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/how-to-change-vscode-terminal-to-iterm/</guid><pubDate>Wed, 09 Sep 2020 15:09:52 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;mac os 기준으로 작성합니다.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1746,7 +1746,476 @@ module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;
       &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
   &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Sdkman을 이용해 JDK & Maven 설치 및 관리하기]]></title><description><![CDATA[시작하기 유닉스 기반의 시스템에서 여러 소프트웨어 개발 키트의 버전을 관리해주는 툴이다. 설치는 를 통해서 진행하면 된다. 비슷하게 자바스크립트 런타임 환경을 제공해주는 NodeJs도 버전별로 관리 할 수 있는 NVM이 있다. 살펴보기 sdkman…]]></description><link>https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</guid><pubDate>Wed, 08 Apr 2020 15:09:37 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[졸업작품_어린이를 위한 알고리즘 장난감 블럭]]></title><description><![CDATA[시작하기 개발 중심으로 작성되기보다 프로젝트 과정에 집중된 글입니다. 이미지와 내용에 대해 저작권이 저를 포함한 팀원에게 있습니다. 어린이를 위한 알고리즘 장난감 블럭 팀명 Know Answer…]]></description><link>https://kwonmory.github.io/project/algorithm-block-for-children/</link><guid isPermaLink="false">https://kwonmory.github.io/project/algorithm-block-for-children/</guid><pubDate>Mon, 08 Jun 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
+&lt;p&gt;개발 중심으로 작성되기보다 프로젝트 과정에 집중된 글입니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이미지와 내용에 대해 저작권이 저를 포함한 팀원에게 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;어린이를-위한-알고리즘-장난감-블럭&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%96%B4%EB%A6%B0%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9E%A5%EB%82%9C%EA%B0%90-%EB%B8%94%EB%9F%AD&quot; aria-label=&quot;어린이를 위한 알고리즘 장난감 블럭 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;어린이를 위한 알고리즘 장난감 블럭&lt;/h1&gt;
+&lt;p&gt;팀명 &lt;strong&gt;Know Answer&lt;/strong&gt; 로 &lt;strong&gt;어린이를 위한 알고리즘 장난감 블럭&lt;/strong&gt; 을 함께 만들었다.&lt;/p&gt;
+&lt;p&gt;팀원으로 &lt;strong&gt;권혁X(개발)&lt;/strong&gt;, &lt;strong&gt;서준X(개발)&lt;/strong&gt;, &lt;strong&gt;민준X(하드웨어 개발)&lt;/strong&gt;, &lt;strong&gt;이주X(디자인 과 제품 스토리)&lt;/strong&gt;, &lt;strong&gt;오우X(개발)&lt;/strong&gt;와 함께 했다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;어린이의 사고력과 문제해결력을 증진 시키기는 목적&lt;/strong&gt;으로 시작하여 어린이를 대상으로 장난감 블럭을 만들었다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;특허출원(거절상태) : &lt;a href=&quot;https://doi.org/10.8080/1020170044271&quot;&gt;교육용 장난감 시스템 및 방법 링크&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/17PfJTDC-G6rziKx-nvwVWjaTkIl8d3ygEu9W2c3INRo/edit?usp=sharing&quot;&gt;프리젠테이션 자료 링크&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;개발-배경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C-%EB%B0%B0%EA%B2%BD&quot; aria-label=&quot;개발 배경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발 배경&lt;/h2&gt;
+&lt;p&gt;드론, 사물인터넷, AI, 자동운전, VR 등 차세대 산업은 모두 디지털 컨텐츠에서 시작했다.&lt;/p&gt;
+&lt;p&gt;우리는 디지털 네이티브(디지털 시대의 &lt;strong&gt;소비자&lt;/strong&gt;이자 &lt;strong&gt;생산자&lt;/strong&gt;가 될 다음 세대의 어린이)를 타겟으로 목표를 잡았다.&lt;/p&gt;
+&lt;p&gt;한국 교육부에 따르면 2015년도 초등고 교육과정 개정안으로&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;초등학교 5~6학년 실과 과목 단원 개편(SW 기초 소양교육)&lt;/li&gt;
+&lt;li&gt;중학교 SW교육 중심의 정보 교과를 필수과목으로 지정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;으로 점점 소프트웨어에 대한 중요성은 커지고 있다.&lt;/p&gt;
+&lt;h3 id=&quot;그러면-우리는-어떻게-도움을-줄-수-있을까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9F%AC%EB%A9%B4-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C&quot; aria-label=&quot;그러면 우리는 어떻게 도움을 줄 수 있을까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그러면 우리는 어떻게 도움을 줄 수 있을까&lt;/h3&gt;
+&lt;p&gt;고민하던 중에 &lt;a href=&quot;https://scratch.mit.edu/studios/1827618/&quot;&gt;스크레치&lt;/a&gt; 를 접하게 되었다. 스크레치는 그래픽 블록을 이용한 모의 프로그래밍 도구이다.&lt;/p&gt;
+&lt;p&gt;하지만, 스크레치는 다음과 같은 문제가 있어 보였다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;투박한 디자인&lt;/li&gt;
+&lt;li&gt;목표의 부재(맹목적 예제 학습)&lt;/li&gt;
+&lt;li&gt;이미지, 사운드 한계 컨텐츠&lt;/li&gt;
+&lt;li&gt;교육의 필요성 느끼지 못함&lt;/li&gt;
+&lt;li&gt;인터넷, 컴퓨터 배경지식이 필요함&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;물론 우리는 여기 있는 문제를 다 해결하고자 하지는 않았다.&lt;/p&gt;
+&lt;p&gt;우리는 아이들이 손으로 직접 만져보고 느껴보는 장난감을 만들어서 제공한다면, 아이들의 흥미를 끌 수 있다고 생각했다.&lt;/p&gt;
+&lt;p&gt;블록 디자인을 다양하게 하고, 스토리를 입혀 스토리를 클리어할 수 있게 목적을 제공해주며, 적절한 이미지와 사운드(을 목표로 했지만, 우리도… 맵이 적었기 때문에 몇 개로만 간추렸다.), 인터넷과 컴퓨터 배경지식의 불필요로 목표를 잡았다.&lt;/p&gt;
+&lt;p&gt;일단, 이에 대한 필요성은 한국 소프트웨어 교육의 관심도가 증가함에 따라서 필요성도 증가하리라 판단했다.&lt;/p&gt;
+&lt;h3 id=&quot;비슷한-제품은-없을까&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EC%8A%B7%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%80-%EC%97%86%EC%9D%84%EA%B9%8C&quot; aria-label=&quot;비슷한 제품은 없을까 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비슷한 제품은 없을까&lt;/h3&gt;
+&lt;p&gt;해외에는 다양한 제품들이 나와 있었다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;일본 MAKE FAIR 2013 - 물질 프로그래밍(스마트폰 어플과 연동되는 명령어 퍼즐)&lt;/li&gt;
+&lt;li&gt;GOGGLE - 프로젝트 블록스 (조작 가능한 스위치 등, 실ㅈ 장치와의 결합으로 실제적인 작품을 만드는 듯한 느낌을 줌)&lt;/li&gt;
+&lt;li&gt;OSMO - 코딩블록 (아이콘을 이용한 직관적 인터페이스, 게임을 하며 문제해결 능력을 기르는 데 중요)&lt;/li&gt;
+&lt;li&gt;샤오미 코딩로봇 (2016.11.05 출시)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;와 같이 많이 있었다!&lt;/p&gt;
+&lt;p&gt;그러면 우리나라는??&lt;/p&gt;
+&lt;p&gt;대표적으로 &lt;strong&gt;엔트리&lt;/strong&gt;가 있었다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;엔트리&lt;/strong&gt;는 국산 &lt;strong&gt;스크래치&lt;/strong&gt;와 같은 느낌으로 깔끔한 한글화와 귀여운 인터페이스를 제공하고 있다.&lt;/p&gt;
+&lt;p&gt;그 외 이산 &lt;strong&gt;솔루션의 코블로&lt;/strong&gt;, &lt;strong&gt;코드스타&lt;/strong&gt;가 있었고, &lt;strong&gt;스타트업 업그라운드의 달려라 코딩버스&lt;/strong&gt;가 비슷한 소재로 있었다.&lt;/p&gt;
+&lt;h2 id=&quot;개발-방향&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C-%EB%B0%A9%ED%96%A5&quot; aria-label=&quot;개발 방향 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발 방향&lt;/h2&gt;
+&lt;p&gt;그러면 우리는 무엇을 제공해줄 수 있는지 다시 한번 보자. (Needs)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;흥미를 이끌 수 있는 새로운 형태의 학습 도구&lt;/li&gt;
+&lt;li&gt;몰입을 위한 스토리텔링형 컨텐츠 제공&lt;/li&gt;
+&lt;li&gt;디스플레이와 연동 가능한 학습 도구&lt;/li&gt;
+&lt;li&gt;친구들과 쉽게 공유하고 함께 즐길 수 있는 방법(끝내 마무리를 못 지었다..)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;키워드는 &lt;strong&gt;스마트폰&lt;/strong&gt;, &lt;strong&gt;컴퓨터&lt;/strong&gt;, &lt;strong&gt;친구들&lt;/strong&gt;, &lt;strong&gt;케릭터&lt;/strong&gt;, &lt;strong&gt;딴짓&lt;/strong&gt; 이다.&lt;/p&gt;
+&lt;h3 id=&quot;그러면-제품은-어떤-방식으로-제공할-것인가&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9F%AC%EB%A9%B4-%EC%A0%9C%ED%92%88%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%A0%9C%EA%B3%B5%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80&quot; aria-label=&quot;그러면 제품은 어떤 방식으로 제공할 것인가 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그러면 제품은 어떤 방식으로 제공할 것인가&lt;/h3&gt;
+&lt;p&gt;기술 경쟁은 힘들다는 것은 당연지사 알고 있다. 또한 생산과 판매 단가가 높아진다는 단점이 있었다. 하지만 기존 퀄리티를 유지하는 게 중요했다.&lt;/p&gt;
+&lt;p&gt;기존 아두이노를 활용하여 제작하기로 한다.&lt;/p&gt;
+&lt;p&gt;마스터 블럭과 슬레이브 블럭으로 두어서 연결하여 데이터를 송신하면 디스플레이에서 이에 반응하여 문제를 클리어하는 방향으로 제공해보자.&lt;/p&gt;
+&lt;h3 id=&quot;어떤-내용으로-접근할-것인가&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%96%B4%EB%96%A4-%EB%82%B4%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%A0%91%EA%B7%BC%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80&quot; aria-label=&quot;어떤 내용으로 접근할 것인가 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;어떤 내용으로 접근할 것인가&lt;/h3&gt;
+&lt;p&gt;기존 스크래치와 엔트리 등의 기능은 무제한적이나 흥미와 목표를 잃은 채로 예제 따라하기에 빠질 수 있다는 단점이 있다.&lt;/p&gt;
+&lt;p&gt;어떤 스토리를 입히는지가 중요한 요소 중 하나이다. 몰입감 있게 구성하도록 해보자. 케릭터를 만들고 케릭터가 모험을 떠나는 이야기로 시작해보자.
+(컨텐츠가 주어지고 목표달성을 위한 활동을 통해 학습시키자.)&lt;/p&gt;
+&lt;h3 id=&quot;추가적인-가치가-있나&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B6%94%EA%B0%80%EC%A0%81%EC%9D%B8-%EA%B0%80%EC%B9%98%EA%B0%80-%EC%9E%88%EB%82%98&quot; aria-label=&quot;추가적인 가치가 있나 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;추가적인 가치가 있나&lt;/h3&gt;
+&lt;p&gt;여러 가지 생각을 해볼 수 있었다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;시각장애인 청소년용 소프트웨어 교구로 활용한다면 어떨까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;소프트웨어 교육이 배제되어있는 시각장애인들도 손으로 만질 수 있는 블록으로 소프트웨어 교육을 한다면 고차원적인 코드를 짜지는 못하겠지만 간단한 로봇의 제어 정도는 가능하지 않을까?&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;치매 예방 교구로 활용할 수 있지 않을까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;같은 교구로도 디스플레이를 통해 여러 테마의 컨텐츠를 즐길 수 있다.&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;디스플레이의 종류에 국한되지 않고 블럭 모듈만 있으면 어디서든 플레이 가능하게 할 수 있지 않을까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;기존의 소프트웨어 프로그램이 컴퓨터와 어플에 한정되어 있었다면, 이 제품은 모듈을 통해 마치 PS처럼 디스플레이만 있으면 어디든 플레이할 수 있도록 할 수 있지 않을까?&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;실제 감지하고 느끼는 요소(빛, 소리, 초음파 등)에서 정보를 모을 수 있지 않을까?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;디스플레이상 그래픽 / 사운드 컨텐츠의 한계를 넘어 더 다양하고 역동적인 정보들을 입력할 수 있지 않을까?&lt;/p&gt;
+&lt;h3 id=&quot;초기-아이디어-자료&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B4%88%EA%B8%B0-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EC%9E%90%EB%A3%8C&quot; aria-label=&quot;초기 아이디어 자료 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;초기 아이디어 자료&lt;/h3&gt;
+&lt;p&gt;초기 아이디어로 결과와는 다른 부분이 꽤 있다. (발전했다는 증거겠지..)&lt;/p&gt;
+&lt;h4 id=&quot;아이디어-도출-단계&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%8F%84%EC%B6%9C-%EB%8B%A8%EA%B3%84&quot; aria-label=&quot;아이디어 도출 단계 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;아이디어 도출 단계&lt;/h4&gt;
+&lt;p&gt;팀은 컴퓨터공학과, 디자인학과 기계설계공학과로 구성이 되어있다. &lt;/p&gt;
+&lt;p&gt;먼저 각 학과의 기술을 다 사용 할 수 있는 아이디어를 생각 하였다. &lt;/p&gt;
+&lt;p&gt;제품의 가치와 기대효과에 대해서 생각해서 도출된 아이디어 결과로, 장난감을 통한 소프트웨어 교육 아이템이 선정되었다. &lt;/p&gt;
+&lt;p&gt;우리의 목표는 소프트웨어 교육이 중요시되는 현재 트렌드에 맞춰 아이들이 쉽게 소프트웨어를 배울 수 있도록 도와주는 아이템이다.&lt;/p&gt;
+&lt;p&gt;기본적인 장난감의 컨셉트는 다음과 같다. &lt;/p&gt;
+&lt;p&gt;이 장난감은 하나의 시작 버튼이 있는 메인 블록과 여러 개의 기능 블록들로 구성되어있는데, &lt;/p&gt;
+&lt;p&gt;우선 기능 블록들에는 각각 특정 기능을 수행하는 함수들이 프로그래밍 되어있다. &lt;/p&gt;
+&lt;p&gt;아이들은 그 블록들을 제공된 컨텐츠의 목적에 알맞게 조립하고, 메인블록의 시작 버튼을 누른다. &lt;/p&gt;
+&lt;p&gt;시작 버튼이 누른 뒤에는, 조립된 기능 블록들에 코딩되어있는 함수들을 시각적으로 보이는 컨텐츠에 실행하게 된다.&lt;/p&gt;
+&lt;p&gt;여기서 컨텐츠는 연산을 수행할 수 있는 장치에 연결되어있는 디스플레이에 표현되며 모든 플랫폼에서 실행하는 것을 목표로 하고 있다. &lt;/p&gt;
+&lt;p&gt;또한 메인 블록은 시작 버튼을 누르게 되면 기능 블록들의 식별자를 받아와, 연산이 가능한 장치에 보내, 그 장치에 내장된 코드를 실행한다.  &lt;/p&gt;
+&lt;p&gt;사용대상자가 어린이들인 만큼, 블록들은 삼키지 못할 정도의 어린이들의 손 크기 정도로 생각하고 있으며, &lt;/p&gt;
+&lt;p&gt;각 기능 블록에는 퍼즐과 같이 홈과 돌기가 있는 것을 목표로 하고 있는데, 이는 특정 기능 블록에 연결될 수 있는 블록들이 제한이 있음을 의미한다.&lt;/p&gt;
+&lt;h4 id=&quot;기대-효과&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%EB%8C%80-%ED%9A%A8%EA%B3%BC&quot; aria-label=&quot;기대 효과 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기대 효과&lt;/h4&gt;
+&lt;p&gt;현재 우리나라에서, 더 나아가 전 세계적으로 소프트웨어 교육이 열풍이 부는 만큼, 제품이 완성될 시 파급 효과는 클 것으로 예상되며, 장난감이라는 아이템으로 아이들에게 흥미를 불러일으켜, 재미와 학습이라는 두 마리 토끼를 잡을 수 있다고 생각한다. &lt;/p&gt;
+&lt;p&gt;또한 블록들의 순서를 직접 조작함으로써, 아이들의 창의성과 논리력 향상도 기대해 볼 만하다. 이는 앞으로 우리나라의 미래 성장 동력의 원천이 될 것이라 감히 기대해본다.&lt;/p&gt;
+&lt;h4 id=&quot;기술의-한계점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%EC%88%A0%EC%9D%98-%ED%95%9C%EA%B3%84%EC%A0%90&quot; aria-label=&quot;기술의 한계점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기술의 한계점&lt;/h4&gt;
+&lt;p&gt;여러 블록들이 연결되는 특성상, 블록 하나당 복잡한 함수의 구현은 어려울 것이라 예상되며, 또한 적을 가능성이지만, 블록의 기능과 실제 프로그래밍 사이에 괴리감이 생길 수 있다. 그리고 마지막으로, 기능 블록들의 순서 데이터를 메인 블록에 어떤 식으로 보내야 하는지 난관이 예상된다.&lt;/p&gt;
+&lt;h4 id=&quot;추후-활용방안&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B6%94%ED%9B%84-%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%88&quot; aria-label=&quot;추후 활용방안 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;추후 활용방안&lt;/h4&gt;
+&lt;p&gt;실제로 완성품이 나오게 될 시에는, 일부 유치원과 초등학교에 소프트웨어 교육용으로 시범 도입한 뒤, 점차 확대하여 국가 공식 교육아이템이 되거나, 키덜트를 대상으로 제품에 기능을 추가할 수도 있다.&lt;/p&gt;
+&lt;h2 id=&quot;일부-기술-스택&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%BC%EB%B6%80-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D&quot; aria-label=&quot;일부 기술 스택 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;일부 기술 스택&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Javascript(ES5+)&lt;/li&gt;
+&lt;li&gt;NodeJs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://angularjs.org/&quot;&gt;angulerJS&lt;/a&gt;(다른 팀원이 사용)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://firebase.google.com/docs/database?hl=ko&quot;&gt;Firebase-Real Time Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;작동-시나리오&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%91%EB%8F%99-%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4&quot; aria-label=&quot;작동 시나리오 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;작동 시나리오&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;먼저 아이들이 블록을 조합하여 전송 버튼을 누른다.&lt;/li&gt;
+&lt;li&gt;조합된 데이터가 서버로 전송이 된다.&lt;/li&gt;
+&lt;li&gt;서버에선 전송받은 데이터를 해석하고 데이터베이스를 업데이트시킨다.&lt;/li&gt;
+&lt;li&gt;실시간 데이터베이스는 수정된 데이터베이스를 소켓으로 연결되어있는 웹 브라우저에 전달한다.&lt;/li&gt;
+&lt;li&gt;브라우저는 받은 데이터를 JS함수 파리미터로 넘겨주고 로직에 맞게 실행되어 게임을 진행한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;구성&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B5%AC%EC%84%B1&quot; aria-label=&quot;구성 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;구성&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;웹서버(자바스크립트 런타임인 NodeJs를 이용하여 Express서버를 이용하였음)&lt;/li&gt;
+&lt;li&gt;실시간 데이터베이스(파이어베이스)&lt;/li&gt;
+&lt;li&gt;디스플레이&lt;/li&gt;
+&lt;li&gt;아두이노로 제작된 메인 블록과 나머지 블록(기능 블록)&lt;/li&gt;
+&lt;li&gt;아두이노, ESP8266(와이파이 모듈)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;각 블록에는 자신의 데이터를 가지고 있고 메인 블록의 전송 버튼을 누르면 연결되어있는 나머지 블록의 데이터를 수집하여 서버에 전송&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;설계-일부분&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%84%A4%EA%B3%84-%EC%9D%BC%EB%B6%80%EB%B6%84&quot; aria-label=&quot;설계 일부분 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;설계 일부분&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;메인 아두이노는 나머지 블록을 통해 받아온 데이터를 구분자를 통해 합치고 전송하게 됨&lt;/li&gt;
+&lt;li&gt;블록 아두이노(슬레이브)의 계산 또는 고정된 데이터를 I2C 통신을 이용하여 메인 아두이노(마스터)에 데이터 전송&lt;/li&gt;
+&lt;li&gt;아두이노간 데이터 통신방식
+-&gt; Inter Integrated Circuit ( I2C )&lt;/li&gt;
+&lt;li&gt;아두이노간 데이터 통신방법
+-&gt; 1:N (메인 아두이노 : 블록 아두이노들)&lt;/li&gt;
+&lt;li&gt;사용한 알고리즘으로 스택 알고리즘을 주로 이용&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 724px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAACrklEQVQ4y21TWU8aYRTlN/qiti99qknTJ2vTpMa+NPahrTXxoRSjaKy2LkVwa5FUpSAuRK3syFKhDDADDDMsyjALp98MCmK5ycmZL/fmfPe7c48O96LRaLT49rtb3M/dnnVCTYAGQUW9q6gKWZFbkGQJagnL0/BEd5DOR1v1ulA4hOOTY3gDPngCHgii0LWDbuEKRtAzpodx16mdFUUhgskTvF9+hqmtNxidfwqXz9pMNhTU63VIooRckYHJ+RmL9imsOGawsGvA0p4BwWQWW+cl+FNX7Q6PYgysnjjW3AFYjvywBykIUrMDmqFRrVSRYVJYdUxjxf4JC7YJGCyjmLV+QOWqSKpEAhk3Q4LurTWFYXMKI+Ykhk2XGDHFkGBKWpovNVm9IJyVESLwJK8RzMjkTF4gA3VRJDNV2h1mOQ4UW0CMohBNpRCn0i2hIsdrHKWreDgZwMDcBZ7MR/CYcJ/BjwxH5q1IkGW5LTgyM4AhQz8G9X14aXyEockHoLn0jWBR40qtTkbxF64IhR1PFNtnYWy6g8izHCRJFbzT4drBEiyuL1jcMWLuhx761TFQNKUVcDyncZKJ4cVkP0Efnht6Cfdi8GMPGC4L8u+IoNQW7NgDsZkQrmvg+RIKhQLEuojydQmHoV8Ee7C51wk28PN0EzWxBlmSO5+8cU7DfErD5KZgPmOw6S2AZksI+Lzw+nzIZDJaMZvn4Pntxb7jQGOO1JTLZeTyuQ636MZtCbyzJjG+fYnX5jBeLfuQyLKolHlUyMqoy6qCLbCIhuNw2J0I+S9QZIvanorkL991VuvJslBFOvkHl5EQcgzzn0cTZI6Ww3ms73/FN+cs4tmLm81rdHpZURrEFapXFTJCidwqajffelh1jBoRKoQl+zS+H63AuDUBb+y0Zbe7Hf4DWbT8sdf6tO0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;ic2 구상&quot;
+        title=&quot;ic2 구상&quot;
+        src=&quot;/static/d68ba9e78a958482b24d57a44127ea65/a242d/i2c.png&quot;
+        srcset=&quot;/static/d68ba9e78a958482b24d57a44127ea65/5a46d/i2c.png 300w,
+/static/d68ba9e78a958482b24d57a44127ea65/0a47e/i2c.png 600w,
+/static/d68ba9e78a958482b24d57a44127ea65/a242d/i2c.png 724w&quot;
+        sizes=&quot;(max-width: 724px) 100vw, 724px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&quot;이미지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9D%B4%EB%AF%B8%EC%A7%80&quot; aria-label=&quot;이미지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;이미지&lt;/h2&gt;
+&lt;p&gt;M2M 경진대회 사진&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHCpDB7ir//xAAbEAEAAgIDAAAAAAAAAAAAAAACAQMAEhETIf/aAAgBAQABBQKDoLt2lypus65VkvHPv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAERAAIQEiFCYf/aAAgBAQAGPwKtwQSesdqpexx6sznH/8QAGxABAAMAAwEAAAAAAAAAAAAAAQARITFBcYH/2gAIAQEAAT8hrjf0QlADwWge89YOYkt2h8mDOp//2gAMAwEAAgADAAAAEBvP/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQMBAT8QR//EABYRAQEBAAAAAAAAAAAAAAAAAAAhcf/aAAgBAgEBPxDFf//EABwQAQEAAgMBAQAAAAAAAAAAAAERADEhQaFRsf/aAAgBAQABPxBhMUiVjN3qY7jQlT3r7h8cuofuABvCwvl9xcVq8V65WwUFXbn/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;M2M 대회&quot;
+        title=&quot;M2M 대회&quot;
+        src=&quot;/static/04fe9a67ec8595d5395f6913d438a79b/e5166/beforeM2M.jpg&quot;
+        srcset=&quot;/static/04fe9a67ec8595d5395f6913d438a79b/f93b5/beforeM2M.jpg 300w,
+/static/04fe9a67ec8595d5395f6913d438a79b/b4294/beforeM2M.jpg 600w,
+/static/04fe9a67ec8595d5395f6913d438a79b/e5166/beforeM2M.jpg 1200w,
+/static/04fe9a67ec8595d5395f6913d438a79b/d9c39/beforeM2M.jpg 1800w,
+/static/04fe9a67ec8595d5395f6913d438a79b/df51d/beforeM2M.jpg 2400w,
+/static/04fe9a67ec8595d5395f6913d438a79b/d7514/beforeM2M.jpg 4320w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;초기 제품은 프로토타입 버전이었다. 블록의 크기가 컸고, 블럭을 보드에 껴서 진행하는 방식이었다. 하지만, 이 방식은 불편했고 좀 더 나은 방법이 필요 했다. 그래서 자식을 이용한 방법으로 변경하려고 노력했다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEUjfNq02P/xAAZEAEBAAMBAAAAAAAAAAAAAAACAQMREiP/2gAIAQEAAQUCj8ypkaWlOI5yVQHf/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BV//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAdEAEAAQMFAAAAAAAAAAAAAAABABESYQIDMUGh/9oACAEBAAY/AnBCncRnFcS4uI6nd8n/xAAdEAEAAgEFAQAAAAAAAAAAAAABABGRITFBUWGB/9oACAEBAAE/IRFo5MxsudGHUL8YwOg4QNs3akoichX7n//aAAwDAQACAAMAAAAQSB//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8Q2of/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QwnTf/8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFhcaHw/9oACAEBAAE/EN6lQG6zT57LihKBhl9hE1u8PsXNwllBV3mwxELCPRMEeLuijc/ZP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;M2M 대회&quot;
+        title=&quot;M2M 대회&quot;
+        src=&quot;/static/90d97f04e443ba315de813de417bf103/e5166/m2m01.jpg&quot;
+        srcset=&quot;/static/90d97f04e443ba315de813de417bf103/f93b5/m2m01.jpg 300w,
+/static/90d97f04e443ba315de813de417bf103/b4294/m2m01.jpg 600w,
+/static/90d97f04e443ba315de813de417bf103/e5166/m2m01.jpg 1200w,
+/static/90d97f04e443ba315de813de417bf103/d9c39/m2m01.jpg 1800w,
+/static/90d97f04e443ba315de813de417bf103/df51d/m2m01.jpg 2400w,
+/static/90d97f04e443ba315de813de417bf103/51418/m2m01.jpg 2944w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB6Mo5isTxP//EABkQAQEBAQEBAAAAAAAAAAAAAAIBAAMREv/aAAgBAQABBQIuDHrKvchFjyM3zN//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAIRMQEQcf/aAAgBAQAGPwJm4RWdyUf/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhMVFhgf/aAAgBAQABPyElukHPJrMpyQymOAPI26T/2gAMAwEAAgADAAAAEL8f/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxBdbl//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EAhl2//EABsQAQEBAAIDAAAAAAAAAAAAAAERACFBkaHB/9oACAEBAAE/EHZIexcBYBQmszT7ZHIaKy0OsGKFOHDgIPBv/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;M2M 대회&quot;
+        title=&quot;M2M 대회&quot;
+        src=&quot;/static/cc5b1940c0b8bd072030558207fe2880/e5166/m2m_awards.jpg&quot;
+        srcset=&quot;/static/cc5b1940c0b8bd072030558207fe2880/f93b5/m2m_awards.jpg 300w,
+/static/cc5b1940c0b8bd072030558207fe2880/b4294/m2m_awards.jpg 600w,
+/static/cc5b1940c0b8bd072030558207fe2880/e5166/m2m_awards.jpg 1200w,
+/static/cc5b1940c0b8bd072030558207fe2880/d9c39/m2m_awards.jpg 1800w,
+/static/cc5b1940c0b8bd072030558207fe2880/df51d/m2m_awards.jpg 2400w,
+/static/cc5b1940c0b8bd072030558207fe2880/d7514/m2m_awards.jpg 4320w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;말레이시아 전시회 사진&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAGMr9x1YNR3/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIv/aAAgBAQABBQJqyKvJmcxCWrwrOaa+/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARL/2gAIAQMBAT8Bar//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8BqY//xAAcEAEAAgIDAQAAAAAAAAAAAAABABECIRMyQYH/2gAIAQEABj8CMa+Rwp2yuVIq7gJ5Os//xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRgf/aAAgBAQABPyFMFRLvyaKBZ3z7m6QjgRgTYLuUVpBMU+z/2gAMAwEAAgADAAAAENwP/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQAhMf/aAAgBAwEBPxBdg5f/xAAYEQACAwAAAAAAAAAAAAAAAAAAIQERQf/aAAgBAgEBPxBERpZ//8QAGxABAQADAAMAAAAAAAAAAAAAAREAITFBUcH/2gAIAQEAAT8QSWM1Kk16x4qMUQBVevcKvrBdXSzzmxdoVk5cEGe4nYZMCJwR9z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;말레이시아 전시회&quot;
+        title=&quot;말레이시아 전시회&quot;
+        src=&quot;/static/150d09c07952d7bbfe530340b5760153/e5166/itex_children.jpg&quot;
+        srcset=&quot;/static/150d09c07952d7bbfe530340b5760153/f93b5/itex_children.jpg 300w,
+/static/150d09c07952d7bbfe530340b5760153/b4294/itex_children.jpg 600w,
+/static/150d09c07952d7bbfe530340b5760153/e5166/itex_children.jpg 1200w,
+/static/150d09c07952d7bbfe530340b5760153/d9c39/itex_children.jpg 1800w,
+/static/150d09c07952d7bbfe530340b5760153/e1596/itex_children.jpg 2048w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAG+RQrtiF//xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEEAxESIf/aAAgBAQABBQJ25iLPRsZpKvuU/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAQMFAAAAAAAAAAAAAAAAAQAQIQMRUWFx/9oACAEBAAY/AiSVYGeNUGlOG//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExQVGRsf/aAAgBAQABPyEUAAvIbKr8qZ79xtjgvkw8qsXLZ//aAAwDAQACAAMAAAAQ6y//xAAWEQEBAQAAAAAAAAAAAAAAAAARACH/2gAIAQMBAT8QdIv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAACAgMAAwAAAAAAAAAAAAABEQAhMUFRobHw/9oACAEBAAE/EGwfPnqBO1BSb1fI9QZ2yuBSpEAcgBcPMNF58QiOZ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;말레이시아 전시회&quot;
+        title=&quot;말레이시아 전시회&quot;
+        src=&quot;/static/695e456a4cd4b080ab216575f8ac3987/e5166/itex_children2.jpg&quot;
+        srcset=&quot;/static/695e456a4cd4b080ab216575f8ac3987/f93b5/itex_children2.jpg 300w,
+/static/695e456a4cd4b080ab216575f8ac3987/b4294/itex_children2.jpg 600w,
+/static/695e456a4cd4b080ab216575f8ac3987/e5166/itex_children2.jpg 1200w,
+/static/695e456a4cd4b080ab216575f8ac3987/eea4a/itex_children2.jpg 1280w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABfmSRuyJB/8QAGhAAAwEAAwAAAAAAAAAAAAAAAQIEAxETIv/aAAgBAQABBQLSgK7UABG7VpHFDH3OSMf/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQMBAT8BdH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAARESAmEhcYH/2gAIAQEABj8CrL2Tz0WxbH4PQj//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAhMVGB4f/aAAgBAQABPyEMQSUF9Yt9mSUnUpxgWEpjW8GYRN//2gAMAwEAAgADAAAAEPcf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EKwj/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAECAQE/EDBm/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUWHw8f/aAAgBAQABPxBTkomxALpeKIt+PFQ85tt4cZIQpIa7fhM1Z0uvbjG0U8Hc/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;말레이시아 전시회&quot;
+        title=&quot;말레이시아 전시회&quot;
+        src=&quot;/static/8446aa1b918f5f829ef42c871d0155fb/e5166/itex_children3.jpg&quot;
+        srcset=&quot;/static/8446aa1b918f5f829ef42c871d0155fb/f93b5/itex_children3.jpg 300w,
+/static/8446aa1b918f5f829ef42c871d0155fb/b4294/itex_children3.jpg 600w,
+/static/8446aa1b918f5f829ef42c871d0155fb/e5166/itex_children3.jpg 1200w,
+/static/8446aa1b918f5f829ef42c871d0155fb/eea4a/itex_children3.jpg 1280w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 1200px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABZolA7AkF/8QAHBABAAEEAwAAAAAAAAAAAAAAAQIAAwQSERMU/9oACAEBAAEFApXtX1lEuRx7u5jLGL1x/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BiP/EABoQAAIDAQEAAAAAAAAAAAAAAAABAhExoSH/2gAIAQEABj8Cavo8ZfjJVDo6dsUXDD//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQTH/2gAIAQEAAT8hVA1CjjB4LQk32FtZW2CUcPFg3VE4z//aAAwDAQACAAMAAAAQ5B//xAAVEQEBAAAAAAAAAAAAAAAAAAARAP/aAAgBAwEBPxBkv//EABcRAAMBAAAAAAAAAAAAAAAAAAABIRH/2gAIAQIBAT8QwVUf/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUXHR/9oACAEBAAE/ECliaCuV0lajeYFheTl17B5As5yOIKwvtB4eAuC3eb6tmmREJBvtSf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;말레이시아 전시회&quot;
+        title=&quot;말레이시아 전시회&quot;
+        src=&quot;/static/f9e6308f90eb628eadecb091d9e00c79/e5166/itex_people.jpg&quot;
+        srcset=&quot;/static/f9e6308f90eb628eadecb091d9e00c79/f93b5/itex_people.jpg 300w,
+/static/f9e6308f90eb628eadecb091d9e00c79/b4294/itex_people.jpg 600w,
+/static/f9e6308f90eb628eadecb091d9e00c79/e5166/itex_people.jpg 1200w,
+/static/f9e6308f90eb628eadecb091d9e00c79/d9c39/itex_people.jpg 1800w,
+/static/f9e6308f90eb628eadecb091d9e00c79/df51d/itex_people.jpg 2400w,
+/static/f9e6308f90eb628eadecb091d9e00c79/d2602/itex_people.jpg 4032w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGfVpmpBwf/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIDERL/2gAIAQEAAQUC9aWuaidCTgrSqlJo/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8BiP/EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwHSv//EABsQAAIDAAMAAAAAAAAAAAAAAAARASEiAjFR/9oACAEBAAY/AnxaI7LZmZKyen//xAAaEAEAAwEBAQAAAAAAAAAAAAABABEhMVFB/9oACAEBAAE/Ie1/qL+q1FehjD8+3Q9lGC77jLbSzds//9oADAMBAAIAAwAAABAID//EABcRAAMBAAAAAAAAAAAAAAAAAAABETH/2gAIAQMBAT8Qi6Jz/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxDA1p//xAAbEAEBAQEAAwEAAAAAAAAAAAABESEAMUFhgf/aAAgBAQABPxAuJi+zbobvKgFEIM+sYHCNBoNN4RgUyLjQhT5R+HaxDIdV7//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;말레이시아 전시회&quot;
+        title=&quot;말레이시아 전시회&quot;
+        src=&quot;/static/c87bfc4089592daa0221f58157ee7ca0/6a068/itex.jpg&quot;
+        srcset=&quot;/static/c87bfc4089592daa0221f58157ee7ca0/f93b5/itex.jpg 300w,
+/static/c87bfc4089592daa0221f58157ee7ca0/b4294/itex.jpg 600w,
+/static/c87bfc4089592daa0221f58157ee7ca0/6a068/itex.jpg 960w&quot;
+        sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;업데이트된-제품-이미지&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EB%90%9C-%EC%A0%9C%ED%92%88-%EC%9D%B4%EB%AF%B8%EC%A7%80&quot; aria-label=&quot;업데이트된 제품 이미지 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;업데이트된 제품 이미지&lt;/h1&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 296px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 78.37837837837837%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEKElEQVQ4yz2T60/TZxiG+4dMUBTUuS3GRA2iApGBEzys9EjLmbYIIqhzEQ+ROV04iFNkcmyBFooWBAoF56bTTIwJggLrQZxiRQ0Ccx/2aft07Sld9uHOk1+eN9fvfu7nfRXBD//weulvXs//xavgPL/7A8xMPCQw6sb3k5Wp/iomu08w6Shmsj2fp7YsnlgzmbAaGG/RMyEab9Ex1qTlUYMGhe+2DZ+nDm9vBV5nGV57Ad72bHztBqZa0qVqmeky4ncY8NkN0jcyLb3p9oyw2nRMWTU8bVUz0aQSYJsef7uOmc4MZhx6pkPNtgzG2zIZt2YwUpnK3UsHeOY08tKVRcCRwTM5G5Cz3g6tSCcGtEzbVEy2pqN4fiOXYJ8Jf2cW968o6anYzUj1Xh63aAhcz+Xny0p+vabhUaOGOxfTmHVl4u/Q4Ldredmt54VTJ99qmUSF16ZEEezNk8M67OXJXCmKo/WrRGos4TrpyGayM48HDTqaS7Yz2qDlQaPkZtPhPpdE7+kERi/v4XmnRqZTE+gQh28HCrh+bAtnlOu4aI7jQv42XOf2MdZqZEzCd55Kod4Sy2ObkWcuE/fqtTy1Z+FzZvPwByXWYzu5V5vKVOuXEl0I6DbxW8MeHAWraciJEfB6rh5OYsyWg/PELm6UJ3G3TiNwI6NNBpwVafRd2Mftmv0ymZahC3u48/1+hr/9nAe1KSjeDZgJunLoK/uUwdL1uMvWU6VeRc72FZh3xTDaaGRuqAR3tYrT2dtkgjgqRN/kxtJyJEEcJnKrMg3X8Vh8tgMhoIWF4UM8qUvBZVmDPT+a7qK11BuiqNWupjx1Dd9lb6HKHM/ZvHjqDidTbUnkWukuTuo3c7VkJ00Ht9JctIm3Nw0o3g8VEdJ8fz6+xlRul2+itzCaen0UXaZoiWENzVlRHE2O4Ix6I5cLd9JQlsS5vB1UWXZwv3Y/xYkR/Hg+gTcuvQA9Ahw8yLzbwpI7n7c9meL2C+ymdVxKX0GjAK8XreNGYYz8JJLjyR9xNPVjzufE4ancS7VuA6dSI/C37GXWqUWxMHSQhcFCgYoGTCwM5Ak4lzlp/nI+PhyBJRqrLKzLHEONeiUXVZF8nRTBkaRVVKVH4infTNCp5oVdthyCLXqKRYfCYBl9vi+HRQH/OWwiIC/g7tmtdAj4inYVlcqV1KhW0p4ZRWvuWgaPfYa3eR/Bbh0vO9UoFmUhi8MlLA4JVNwuSgShuiDXab4/jz+GCpZdP7maxs2yjTgLomk2RmGXKPpLP+FRdQJz3RpmHSpml4GeMHDpP4XdFv8Pfu82CzCfDx4zb3rk5dTtpqd4A9aMSEZOxvK6S0uwU8srqbNdoQxDkJFSUZnoMEu3SpcVdn5oGb4waBG3BcvgUBRzcm9Hq1PwtSh5J0sMdht4JZrt0vEvSCZMV/vpWCYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;그림2&quot;
+        title=&quot;그림2&quot;
+        src=&quot;/static/2ae19bf73a7069290e11ceeaac63e89b/b1a44/p2.png&quot;
+        srcset=&quot;/static/2ae19bf73a7069290e11ceeaac63e89b/b1a44/p2.png 296w&quot;
+        sizes=&quot;(max-width: 296px) 100vw, 296px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 292px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 73.63013698630138%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABuklEQVQ4y22T6W7CQAyE8/4vR0Ul+pPS0gRIyH0QLtefiaMtxdIme3jHnrE3ut/v4qPve+m6Ts7ns82HYZBB/+M4zuN6vYobd54tCjcvl4uUZSl1Xb90BowATdPI6XSaQUPfiA+HOFVVJUWeS5LEkmWZZWtZ6iAIwzP2TB3MgSMHIbP0cJDt9ls+12tbYzOg+rVtK0cNxBlsXlGP8uPRNoi+2+3kfbmUt8XC1qGhq9OGDaAwCDO1DKFm2mgWaZpKrtlSELfb7WZnB80+LAgG9WpiMgMCcNjvTZuQAvQIUBS5zT9WK9krA6iSPVkCyPmfKvNp1AHgTi/iiIZfm41FZ31UWciQPSTKNFCr+6aprmHQWuWHB6BrxGUfWZZKHMcWiHVRFKYbHTHqgBHAAHIG4C5JHoBhlRC6xEGjtxM4IHSDVxfdWeOL9frHP45/JCLdsDmhBHWcoew9BzC060ke9imY9yo+aB4xIQMOMUBwwFpvdhXe24hs2OunF8N9L6JV2SkDAjB6eNuw7xfcuNgEPcod9ryl5rdMhv5qoPOsrc/bqRPwZ+5v2n3+FQWw5/cZavzovQcLlyk8/wVbVY9RW5+F7gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;그림3&quot;
+        title=&quot;그림3&quot;
+        src=&quot;/static/e386e6c7d6feec29de4f33c9b4f443b5/2e9f9/p3.png&quot;
+        srcset=&quot;/static/e386e6c7d6feec29de4f33c9b4f443b5/2e9f9/p3.png 292w&quot;
+        sizes=&quot;(max-width: 292px) 100vw, 292px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;위와 같이 작은 블럭으로 만들려고 팀원들이 큰 노력하고 디자인 신경을 많이 썼다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;블록 또한 전보다 다양해졌다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;블록끼리는 자식으로 붙일 수 있어졌다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 891px; &quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADp0lEQVQ4yyXP+U/TdxzH8f4DZnNXHPuBGUcmhCuChA2MqIgbMlQKAxQPoDIpmMIQVK5xn5VxjETuYzrYPDZcEYaWQ0AohRYqpRQoUEVQB2MTM3XZ8txX/OGdTz7JO4/36yWa0PZhvDfIlH6I6YkRZgxaTMZRZo1aYTTCfxjjuAqDbgC9sDuu6WVM3Y128Daa/nbUPQoGb//M3Y6r9NyoR2TUCdj4EDMTw5gMmnVsbmqM+anRdXB+epTHC5M8emBgyaxnaU7HwoyW+5MqZnV3MA4r0Q+0MdqroE/RgGhKuD4zoRawEUyTGgEbFZAx4dViNunQqJTI81JITUkgMTGOuPgYZF9HI42OIExynJCjQfj5+SCVHKFfUYdoRqhqEmqtYwL0GntddfG+nprSLD7y8MIjs4w9aXIC0jMRZ+QizrrAZ+lydhdewvFUKnY2WxlorUVkepVOmIV5A33XyyiX7UV+JogHCybUHY2EuL6D38kzyG9NUdJhpEI5Td0dM7VdC5TfmuO77kUiCq+y8xNn1G01iOYMQ5gNKn5fnKW7MY1vvN8iO9iO1srztFUlEbTtDXZ67yM8o5CchhpKf1FQ0VhP+Q/XickpJyq/DP/oBFxdXWhvLhcqj9xkbrQDs05JV2MKOWJLsnw/IPPzN7lcIMXf0QI3ny3E1B0judqfkrxDFMh2cy50B4d9rZCkOXDoq4/xcLal+2IkosnFp/R3/spFqSvVMbtoSvbhWtJeaiQ2tMrDSDywlbc3b8BeOOQWbk1YkB2edhZ8uuU9wqXbCM51xsHrfXzdrBmuPiEkVDYyVCWlUbKZJpkTTQmetGQF0VcRzUhtFDeyDyL9whaZ2IkIH3tCvKwJ3GXFftcP2eFggYvtJiw3bSDKzwl9Qyiih4okHrcns6KQcq9CzKVoR6ok1pSGu1B5eg/y0O1oK0N43p/BcsdZnnUl8KwznieKKOZ/DEVfF8zd4v1oKr7EUH8E0XJnLn/25LPWm8fL/kxW2+MYKj1IbYQN8gPv0nzem57ySMa+j2XmShya2pM87U7mr86zrP4Ww0prJI+uhWBuOspkXSCi1e4c1voKeD5YxAvVt/yrvgDqfJZaYhks8UeR4knFKXdS/e055m5JToAVK21xQtJzwvFYlhWnWbhyAvNPx5m7HCAkVKYLYB5/DxTyQkBfDhXzj6qI/17BmiJ0lYcpDrQk0n0jMR4bqZdY8cdNGWvKeAGU8aQlnIfNYky1+xjI3s7/gfLQP/pvr6UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;그림1&quot;
+        title=&quot;그림1&quot;
+        src=&quot;/static/207859ccb3b4d4bfb316634fdf357600/b7877/p1.png&quot;
+        srcset=&quot;/static/207859ccb3b4d4bfb316634fdf357600/5a46d/p1.png 300w,
+/static/207859ccb3b4d4bfb316634fdf357600/0a47e/p1.png 600w,
+/static/207859ccb3b4d4bfb316634fdf357600/b7877/p1.png 891w&quot;
+        sizes=&quot;(max-width: 891px) 100vw, 891px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;결과적으로 위와 같은 모습이 탄생했다!! 자석으로 붙여서 블록을 일렬로 붙여서 데이터를 전송할 수 있는 부분이 좋았다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;제품-시연-영상&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A0%9C%ED%92%88-%EC%8B%9C%EC%97%B0-%EC%98%81%EC%83%81&quot; aria-label=&quot;제품 시연 영상 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;제품 시연 영상&lt;/h1&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/ddLSjNfYR2Q&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/3iKlRfTEaME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;운 좋게 말레이시아 전시회에 참가할 기회가 생겼다. 말레이시아 전시회를 통해 아이들에게 우리 제품을 소개할 수 있었다. 아이들은 많은 흥미를 가졌고 많이 이용해주었다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;후기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%9B%84%EA%B8%B0&quot; aria-label=&quot;후기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;후기&lt;/h1&gt;
+&lt;h2 id=&quot;과정&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B3%BC%EC%A0%95&quot; aria-label=&quot;과정 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;과정&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;P2P 캠프&lt;/strong&gt;를 통해 아이디어를 도출하고, &lt;strong&gt;M2M 경진대회&lt;/strong&gt;까지 나가서 &lt;strong&gt;최우수&lt;/strong&gt;를 받을 수 있었다.&lt;/p&gt;
+&lt;p&gt;그 후 &lt;strong&gt;말레이시아 전시회&lt;/strong&gt;에 참여할 기회가 생겨서 말레이시아로 가서 많은 아이들에게 잘 되지 않는 영어로 설명하면서 재미를 느꼈다. 그 결과 말레이시아 전시회를 통해 ITEX 로 부터 2개의 상을 받을 수 있었다.&lt;/p&gt;
+&lt;p&gt;그리고 교내에서 크게 열리는 &lt;strong&gt;제17회 산학협동 산업기술대전 표창(졸업작품 우수작) / 중소기업기술혁신협회 회장상&lt;/strong&gt; 도 받을 수 있었다.&lt;/p&gt;
+&lt;h2 id=&quot;그래서&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%EC%84%9C&quot; aria-label=&quot;그래서 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그래서&lt;/h2&gt;
+&lt;p&gt;프로젝트를 진행하면서 기술적인 부분으로 웹의 기초가 되는 html, css, javscript에 대해서 좀 더 알 수 있는 시간을 갖게 되었다. 주로 Javascript의 DOM 조작에 대해서 깊게 생각할 수 있었다.&lt;/p&gt;
+&lt;p&gt;또한 비록 프로젝트에서 사용은 안 해봤지만 진행하면서 typescript도 재미있어보여서 잠깐해보고, angularJs도 잠깐해보고 다양한 기술들을 잠깐 해보면서 웹에 대해 매력을 좀 더 느끼게 되었다.&lt;/p&gt;
+&lt;p&gt;또한 팀원 덕분에 실시간 데이터베이스라는 존재를 처음 알게 되었다. (옵저버 패턴 신기했다.)&lt;/p&gt;
+&lt;p&gt;앞으로 다양한 기술들을 알아보는 시간을 많이 가졌으면 좋겠다는 생각을 많이 하게 되었다.&lt;/p&gt;
+&lt;h2 id=&quot;결과로&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B2%B0%EA%B3%BC%EB%A1%9C&quot; aria-label=&quot;결과로 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;결과로&lt;/h2&gt;
+&lt;p&gt;진행하면서 팀원들과 함께 동아리실에서 밤늦게까지 프로젝트를 하면서 힘들기도 했지만 많은 에피소드들도 생겨났고 문제를 해결하려고 다같이 노력한 모습들을 뒤돌아보면 의미있는 과정이였다.&lt;/p&gt;
+&lt;p&gt;결과적으로 고맙게도 각 팀원이 자신의 역할에 대해서 충실히 이행해주고, 좀 더 나은 제품을 만드려고 한 덕분에 잘 마무리 할 수 있었다.&lt;/p&gt;
+&lt;h1 id=&quot;참고-논문학술-저널&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0-%EB%85%BC%EB%AC%B8%ED%95%99%EC%88%A0-%EC%A0%80%EB%84%90&quot; aria-label=&quot;참고 논문학술 저널 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고 논문(+학술 저널)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jkaie.or.kr/read.php?pageGubun=&amp;#x26;pageNm=article&amp;#x26;search=&amp;#x26;journal=%EC%A0%9C19%EA%B6%8C%20%EC%A0%9C4%ED%98%B8&amp;#x26;code=259236&amp;#x26;issue=19622&amp;#x26;Page=2&amp;#x26;year=2015&amp;#x26;searchType=all&amp;#x26;searchValue=&quot;&gt;초등학생을 위한 알고리즘 교수학습 방법과 평가&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jkaie.or.kr/read.php?pageGubun=&amp;#x26;pageNm=article&amp;#x26;search=&amp;#x26;journal=%EC%A0%9C19%EA%B6%8C%20%EC%A0%9C4%ED%98%B8&amp;#x26;code=259233&amp;#x26;issue=19622&amp;#x26;Page=1&amp;#x26;year=2015&amp;#x26;searchType=all&amp;#x26;searchValue=&quot;&gt;초등학생을 위한 알고리즘 및 프로그래밍 교육과정 모델 개발&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08797448&quot;&gt;초등학생의 알고리즘 표현을 위한 활동 중심의 검색 알고리즘 수업 설계&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;수상-결과&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%88%98%EC%83%81-%EA%B2%B0%EA%B3%BC&quot; aria-label=&quot;수상 결과 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;수상 결과&lt;/h1&gt;
+&lt;p&gt;개인적으로 보관하고 있습니다.&lt;/p&gt;
+&lt;h1 id=&quot;비공개-자료-팀원-미동의&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%9E%90%EB%A3%8C-%ED%8C%80%EC%9B%90-%EB%AF%B8%EB%8F%99%EC%9D%98&quot; aria-label=&quot;비공개 자료 팀원 미동의 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;비공개 자료 (팀원 미동의)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;논문&lt;/li&gt;
+&lt;li&gt;출원 통지서&lt;/li&gt;
+&lt;li&gt;발명 신고서&lt;/li&gt;
+&lt;li&gt;말레이시아 전시회를 위한 리플렛&lt;/li&gt;
+&lt;li&gt;평가 결과서&lt;/li&gt;
+&lt;li&gt;계획서&lt;/li&gt;
+&lt;li&gt;설계서&lt;/li&gt;
+&lt;li&gt;각 팀원의 역할&lt;/li&gt;
+&lt;li&gt;소스 코드&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Sdkman을 이용해 JDK & Maven 설치 및 관리하기]]></title><description><![CDATA[시작하기 유닉스 기반의 시스템에서 여러 소프트웨어 개발 키트의 버전을 관리해주는 툴이다. 설치는 를 통해서 진행하면 된다. 비슷하게 자바스크립트 런타임 환경을 제공해주는 NodeJs도 버전별로 관리 할 수 있는 NVM이 있다. 살펴보기 sdkman…]]></description><link>https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</link><guid isPermaLink="false">https://kwonmory.github.io/tip/sdkman-install-and-using-jdk-and-maven/</guid><pubDate>Wed, 08 Apr 2020 15:09:37 GMT</pubDate><content:encoded>&lt;h1 id=&quot;시작하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h1&gt;
 &lt;p&gt;유닉스 기반의 시스템에서 여러 소프트웨어 개발 키트의 버전을 관리해주는 툴이다.&lt;/p&gt;
 &lt;p&gt;설치는 &lt;code class=&quot;language-text&quot;&gt;https://sdkman.io/&lt;/code&gt;를 통해서 진행하면 된다.&lt;/p&gt;
 &lt;blockquote&gt;
