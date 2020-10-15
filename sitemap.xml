@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://blog.kwonmory.com/study/computer-science/operation-system/virtual-memory/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/fetch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/file-and-file-reader/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/blob/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/ArrayBuffer-binary-arrays/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/frame-window/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/javascript/core-javascript-group-study-draft/text-decoder-text-incoder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.kwonmory.com/change-to-my-language/developer-searching-skill-tip/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.kwonmory.com/study/javascript/javascript-coding-skill/chapter07/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.kwonmory.com/study/computer-science/operation-system/cpu-scheduling/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.kwonmory.com/study/javascript/javascript-coding-skill/chapter06/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.kwonmory.com/study/javascript/javascript-coding-skill/chapter05/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.kwonmory.com/change-to-my-language/javascript-arrays-creating/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
